@@ -1,0 +1,48 @@
+name: "➕ Submit an internship"
+description: "Add an APAC internship the automated scrapers missed."
+title: "[Role] <Company> — <Title>"
+labels: ["new-role"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: "Tencent"
+    validations: {required: true}
+  - type: input
+    id: title
+    attributes:
+      label: Role title
+      placeholder: "Software Engineer Intern 2027"
+    validations: {required: true}
+  - type: input
+    id: location
+    attributes:
+      label: Location (APAC only)
+      placeholder: "Shenzhen / Hong Kong / Singapore / Tokyo / Seoul ..."
+    validations: {required: true}
+  - type: input
+    id: url
+    attributes:
+      label: Application URL
+      placeholder: "https://..."
+    validations: {required: true}
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Software Engineering
+        - Quantitative Finance
+        - Data Science, AI & ML
+        - Hardware Engineering
+        - Product Management
+    validations: {required: true}
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - {label: "This is a student/internship role (not new-grad/full-time)", required: true}
+        - {label: "The location is in APAC", required: true}
+        - {label: "The application link works right now", required: true}

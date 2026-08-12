@@ -1,0 +1,16 @@
+[
+  { "company": "Optiver", "ats": "greenhouse", "token": "optiver" },
+  { "company": "IMC Trading", "ats": "greenhouse", "token": "imc" },
+  { "company": "Jane Street", "ats": "greenhouse", "token": "janestreet" },
+  { "company": "Hudson River Trading", "ats": "greenhouse", "token": "wearehudsonrivertrading" },
+  { "company": "Jump Trading", "ats": "greenhouse", "token": "jumptrading" },
+  { "company": "DRW", "ats": "greenhouse", "token": "drweng" },
+  { "company": "Marshall Wace", "ats": "greenhouse", "token": "mwinternshipprogram" },
+  { "company": "Millennium", "ats": "greenhouse", "token": "millennium" },
+  { "company": "Squarepoint Capital", "ats": "greenhouse", "token": "squarepointcapital" },
+  { "company": "WorldQuant", "ats": "greenhouse", "token": "worldquant" },
+  { "company": "Grab", "ats": "greenhouse", "token": "grab" },
+  { "company": "Palantir", "ats": "lever", "token": "palantir" },
+  { "company": "GitHub", "ats": "greenhouse", "token": "github" },
+  { "company": "Databricks", "ats": "greenhouse", "token": "databricks" }
+]

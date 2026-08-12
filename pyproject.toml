@@ -1,0 +1,9 @@
+[project]
+name = "internships-in-apac-2027"
+version = "0.1.0"
+description = "Community-maintained list of student internships across APAC."
+requires-python = ">=3.11"
+dependencies = ["requests>=2.31"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
