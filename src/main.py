@@ -12,13 +12,15 @@ import sys
 from datetime import date
 from pathlib import Path
 
-from . import adapters, classify, diff, ingest, liveness, normalize, render
+from . import adapters, classify, diff, ingest, liveness, normalize, render, sources
 from .adapters.base import FetchError
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 REGISTRY = DATA / "registry.json"
 CROWD = DATA / "crowdsourced.json"
+WATCHLIST = DATA / "watchlist.json"
+SOURCES = DATA / "sources.json"
 STATE = DATA / "listings.json"
 TARGET_YEAR = "2027"
 
@@ -36,7 +38,8 @@ def fetch_all(registry: list[dict]) -> tuple[list[dict], list[str]]:
         ats = entry.get("ats")
         try:
             fn = adapters.get(ats)
-            cfg = {k: v for k, v in entry.items() if k not in ("company", "ats")}
+            cfg = {k: v for k, v in entry.items()
+                   if k not in ("company", "ats", "token", "verified")}
             got = fn(entry["company"], entry.get("token", ""), **cfg)
             # remember token for a stable dedup key
             for r in got:
@@ -61,15 +64,23 @@ def pipeline(*, do_fetch=True, do_liveness=True, today: str | None = None) -> di
     errors = []
     if do_fetch:
         raw, errors = fetch_all(registry)
+
+    # Aggregate upstream community lists (the main volume driver).
+    src_directory = []
+    if do_fetch:
+        src_roles, src_directory, src_errors = sources.load_all(_load_json(SOURCES, []))
+        raw += src_roles
+        errors += src_errors
+
     raw += ingest.load(crowd)
     print(f"Raw roles gathered: {len(raw)}")
 
-    # Filter + classify.
+    # Filter + classify (EMEA + APAC).
     kept = []
     for r in raw:
         if not classify.is_internship(r["title"]):
             continue
-        if not normalize.is_apac(r["location"]):
+        if not normalize.is_target(r["location"]):
             continue
         if not classify.season_ok(r["title"], TARGET_YEAR):
             continue
@@ -77,7 +88,20 @@ def pipeline(*, do_fetch=True, do_liveness=True, today: str | None = None) -> di
         hint = r.get("_category_hint")
         r["category"] = hint if hint else classify.category(r["title"])
         kept.append(r)
-    print(f"After filter (intern + APAC + season): {len(kept)}")
+    print(f"After filter (intern + EMEA/APAC + season): {len(kept)}")
+
+    # Cross-source dedup: the same posting can appear in several lists. Collapse
+    # on the normalized apply URL, keeping provenance of every list it came from.
+    deduped: dict[str, dict] = {}
+    for r in kept:
+        key = r.get("ext_id") or r["url"]
+        if key in deduped:
+            vias = set(filter(None, [deduped[key].get("via"), r.get("via")]))
+            deduped[key]["via"] = ", ".join(sorted(vias))
+        else:
+            deduped[key] = r
+    kept = list(deduped.values())
+    print(f"After cross-source dedup: {len(kept)}")
 
     # Stateful diff.
     state = diff.update_state(state, kept, today=today, target_year=TARGET_YEAR)
@@ -87,12 +111,15 @@ def pipeline(*, do_fetch=True, do_liveness=True, today: str | None = None) -> di
         print("Liveness sweep...")
         state = liveness.sweep(state)
 
-    # Render + persist.
+    # Render + persist. Directory = curated watchlist + China portals from sources.
     today_d = date.fromisoformat(today)
+    watchlist = _load_json(WATCHLIST, []) + src_directory
     (ROOT / "README.md").write_text(
         render.render_active(state, today=today_d), encoding="utf-8")
     (ROOT / "README-Inactive.md").write_text(
         render.render_inactive(state, today=today_d), encoding="utf-8")
+    (ROOT / "DIRECTORY.md").write_text(
+        render.render_directory(watchlist), encoding="utf-8")
     STATE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
 
     active = sum(1 for r in state.values() if r.get("active", True))

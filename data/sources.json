@@ -1,0 +1,23 @@
+[
+  {
+    "name": "speedyapply-SWE-2027",
+    "format": "speedyapply",
+    "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/INTERN_INTL.md",
+    "enabled": true,
+    "note": "Daily-updated international SWE internships (EMEA + APAC + global)."
+  },
+  {
+    "name": "speedyapply-AI-2027",
+    "format": "speedyapply",
+    "url": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/INTERN_INTL.md",
+    "enabled": true,
+    "note": "Daily-updated international AI/ML internships."
+  },
+  {
+    "name": "Campus2026-CN",
+    "format": "campus_cn",
+    "url": "https://raw.githubusercontent.com/namewyf/Campus2026/main/README.md",
+    "enabled": true,
+    "note": "Mainland-China campus/intern portals -> directory."
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "company": "Jane Street",
+    "region": "Hong Kong",
+    "url": "https://www.janestreet.com/join-jane-street/internships/",
+    "note": "HK Summer 2027 QT + SWE live"
+  },
+  {
+    "company": "Citadel",
+    "region": "Hong Kong / Singapore",
+    "url": "https://www.citadel.com/careers/internships/",
+    "note": ""
+  },
+  {
+    "company": "Citadel Securities",
+    "region": "Hong Kong / Singapore",
+    "url": "https://www.citadelsecurities.com/careers/",
+    "note": ""
+  },
+  {
+    "company": "Hudson River Trading",
+    "region": "Singapore",
+    "url": "https://www.hudsonrivertrading.com/careers/",
+    "note": "SWE Summer 2027 (SG) live"
+  },
+  {
+    "company": "IMC Trading",
+    "region": "Sydney / Hong Kong",
+    "url": "https://www.imc.com/ap/careers",
+    "note": ""
+  },
+  {
+    "company": "Jump Trading",
+    "region": "Singapore",
+    "url": "https://www.jumptrading.com/careers/",
+    "note": ""
+  },
+  {
+    "company": "Two Sigma",
+    "region": "Hong Kong",
+    "url": "https://careers.twosigma.com/careers/",
+    "note": ""
+  },
+  {
+    "company": "SIG Susquehanna",
+    "region": "Sydney / Hong Kong",
+    "url": "https://careers.sig.com/",
+    "note": ""
+  },
+  {
+    "company": "Tower Research Capital",
+    "region": "Singapore",
+    "url": "https://www.tower-research.com/open-positions/",
+    "note": ""
+  },
+  {
+    "company": "WorldQuant",
+    "region": "Singapore / Hong Kong",
+    "url": "https://www.worldquant.com/career-listing/",
+    "note": ""
+  },
+  {
+    "company": "Point72 / Cubist",
+    "region": "Hong Kong / Singapore",
+    "url": "https://careers.point72.com/",
+    "note": ""
+  },
+  {
+    "company": "Balyasny (BAM)",
+    "region": "Hong Kong / Singapore",
+    "url": "https://bambusdev.wd1.myworkdayjobs.com/BAM",
+    "note": ""
+  },
+  {
+    "company": "XTX Markets",
+    "region": "Singapore",
+    "url": "https://www.xtxmarkets.com/careers/",
+    "note": ""
+  },
+  {
+    "company": "Qube Research & Technologies",
+    "region": "Hong Kong / Singapore",
+    "url": "https://www.qube-rt.com/careers",
+    "note": ""
+  },
+  {
+    "company": "G-Research",
+    "region": "Singapore",
+    "url": "https://www.gresearch.com/careers/",
+    "note": ""
+  },
+  {
+    "company": "Radix Trading",
+    "region": "Singapore",
+    "url": "https://radix-trading.com/",
+    "note": ""
+  },
+  {
+    "company": "Google",
+    "region": "Singapore / Taipei / Tokyo",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN",
+    "note": "STEP + SWE Summer 2027"
+  },
+  {
+    "company": "Meta",
+    "region": "Singapore",
+    "url": "https://www.metacareers.com/jobs/?is_intern=1",
+    "note": ""
+  },
+  {
+    "company": "Amazon",
+    "region": "Singapore / Tokyo / Bengaluru",
+    "url": "https://www.amazon.jobs/en/search?base_query=intern&loc_query=Singapore",
+    "note": ""
+  },
+  {
+    "company": "Microsoft",
+    "region": "Singapore / Beijing / Bengaluru",
+    "url": "https://careers.microsoft.com/students/us/en/search-results",
+    "note": ""
+  },
+  {
+    "company": "Apple",
+    "region": "Singapore / Shanghai / Tokyo",
+    "url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN",
+    "note": ""
+  },
+  {
+    "company": "NVIDIA",
+    "region": "Shanghai / Singapore / Taipei",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "note": ""
+  },
+  {
+    "company": "Netflix",
+    "region": "Singapore / Tokyo",
+    "url": "https://explore.jobs.netflix.net/careers",
+    "note": ""
+  },
+  {
+    "company": "Uber",
+    "region": "Singapore / Bengaluru",
+    "url": "https://www.uber.com/us/en/careers/list/?query=intern",
+    "note": ""
+  },
+  {
+    "company": "Agoda",
+    "region": "Bangkok / Singapore",
+    "url": "https://careersatagoda.com/",
+    "note": ""
+  },
+  {
+    "company": "Atlassian",
+    "region": "Sydney / Bengaluru",
+    "url": "https://www.atlassian.com/company/careers/early-career",
+    "note": ""
+  },
+  {
+    "company": "Salesforce",
+    "region": "Singapore / Tokyo",
+    "url": "https://careers.salesforce.com/en/jobs/",
+    "note": ""
+  },
+  {
+    "company": "Adobe",
+    "region": "Bengaluru / Singapore",
+    "url": "https://careers.adobe.com/us/en/c/university-jobs",
+    "note": ""
+  },
+  {
+    "company": "SAP",
+    "region": "Singapore / Tokyo",
+    "url": "https://jobs.sap.com/",
+    "note": ""
+  },
+  {
+    "company": "Dyson",
+    "region": "Singapore",
+    "url": "https://careers.dyson.com/en-gb/",
+    "note": "Global HQ in Singapore"
+  },
+  {
+    "company": "Goldman Sachs",
+    "region": "Hong Kong / Singapore / Tokyo",
+    "url": "https://www.goldmansachs.com/careers/students/programs/",
+    "note": ""
+  },
+  {
+    "company": "Morgan Stanley",
+    "region": "Hong Kong / Singapore",
+    "url": "https://www.morganstanley.com/people-opportunities/students-graduates",
+    "note": ""
+  },
+  {
+    "company": "J.P. Morgan",
+    "region": "Hong Kong / Singapore",
+    "url": "https://careers.jpmorgan.com/global/en/students/programs",
+    "note": ""
+  },
+  {
+    "company": "Citi",
+    "region": "Hong Kong / Singapore",
+    "url": "https://jobs.citi.com/campus",
+    "note": ""
+  },
+  {
+    "company": "Bank of America",
+    "region": "Hong Kong / Singapore",
+    "url": "https://campus.bankofamerica.com/",
+    "note": ""
+  },
+  {
+    "company": "BlackRock",
+    "region": "Hong Kong / Singapore",
+    "url": "https://careers.blackrock.com/early-careers/",
+    "note": ""
+  },
+  {
+    "company": "Bloomberg",
+    "region": "Hong Kong / Singapore / Tokyo",
+    "url": "https://careers.bloomberg.com/job/search?q=intern",
+    "note": ""
+  },
+  {
+    "company": "Mastercard",
+    "region": "Singapore",
+    "url": "https://careers.mastercard.com/us/en/students-and-graduates",
+    "note": ""
+  },
+  {
+    "company": "Visa",
+    "region": "Singapore",
+    "url": "https://corporate.visa.com/en/jobs/",
+    "note": ""
+  },
+  {
+    "company": "PayPal",
+    "region": "Singapore",
+    "url": "https://careers.pypl.com/home/",
+    "note": ""
+  },
+  {
+    "company": "Standard Chartered",
+    "region": "Singapore / Hong Kong",
+    "url": "https://www.sc.com/en/careers/students-graduates/",
+    "note": ""
+  },
+  {
+    "company": "HSBC",
+    "region": "Hong Kong / Singapore",
+    "url": "https://www.hsbc.com/careers/students-and-graduates",
+    "note": ""
+  },
+  {
+    "company": "Nomura",
+    "region": "Tokyo / Hong Kong",
+    "url": "https://www.nomura.com/careers/",
+    "note": ""
+  },
+  {
+    "company": "Macquarie",
+    "region": "Hong Kong / Singapore",
+    "url": "https://www.macquarie.com/careers/students-and-graduates.html",
+    "note": ""
+  },
+  {
+    "company": "Micron",
+    "region": "Singapore / Taiwan / Japan",
+    "url": "https://careers.micron.com/careers",
+    "note": "Large Singapore fabs"
+  },
+  {
+    "company": "Intel",
+    "region": "Shanghai / Bengaluru / Penang",
+    "url": "https://jobs.intel.com/en/students-and-graduates",
+    "note": ""
+  },
+  {
+    "company": "Qualcomm",
+    "region": "Hyderabad / Shanghai / Seoul",
+    "url": "https://careers.qualcomm.com/careers",
+    "note": ""
+  },
+  {
+    "company": "AMD",
+    "region": "Singapore / Shanghai / Bengaluru",
+    "url": "https://careers.amd.com/careers-home/jobs",
+    "note": ""
+  },
+  {
+    "company": "Texas Instruments",
+    "region": "Bengaluru / Shanghai",
+    "url": "https://careers.ti.com/",
+    "note": ""
+  },
+  {
+    "company": "Applied Materials",
+    "region": "Singapore / Taiwan",
+    "url": "https://careers.appliedmaterials.com/careers",
+    "note": ""
+  },
+  {
+    "company": "GlobalFoundries",
+    "region": "Singapore",
+    "url": "https://gf.com/careers/",
+    "note": "Singapore is a major hub"
+  },
+  {
+    "company": "Seagate",
+    "region": "Singapore / Thailand",
+    "url": "https://www.seagate.com/careers/",
+    "note": ""
+  },
+  {
+    "company": "Dell Technologies",
+    "region": "Singapore / Bengaluru",
+    "url": "https://jobs.dell.com/en/university-relations",
+    "note": ""
+  },
+  {
+    "company": "Cisco",
+    "region": "Bengaluru / Singapore",
+    "url": "https://jobs.cisco.com/jobs/SearchJobs/intern",
+    "note": ""
+  },
+  {
+    "company": "Oracle",
+    "region": "Bengaluru / Singapore",
+    "url": "https://careers.oracle.com/en/sites/jobsearch/",
+    "note": ""
+  },
+  {
+    "company": "Tencent",
+    "region": "Shenzhen / Beijing",
+    "url": "https://careers.tencent.com/en-us/search.html",
+    "note": ""
+  },
+  {
+    "company": "Alibaba",
+    "region": "Hangzhou / Beijing",
+    "url": "https://talent.alibaba.com/campus/home",
+    "note": ""
+  },
+  {
+    "company": "Ant Group",
+    "region": "Hangzhou",
+    "url": "https://talent.antgroup.com/campus",
+    "note": ""
+  },
+  {
+    "company": "Baidu",
+    "region": "Beijing",
+    "url": "https://talent.baidu.com/",
+    "note": ""
+  },
+  {
+    "company": "Meituan",
+    "region": "Beijing",
+    "url": "https://zhaopin.meituan.com/",
+    "note": ""
+  },
+  {
+    "company": "JD.com",
+    "region": "Beijing",
+    "url": "https://campus.jd.com/",
+    "note": ""
+  },
+  {
+    "company": "NetEase",
+    "region": "Hangzhou / Guangzhou",
+    "url": "https://campus.163.com/",
+    "note": ""
+  },
+  {
+    "company": "Xiaomi",
+    "region": "Beijing",
+    "url": "https://hr.xiaomi.com/campus",
+    "note": ""
+  },
+  {
+    "company": "Huawei",
+    "region": "Shenzhen",
+    "url": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+    "note": ""
+  },
+  {
+    "company": "SenseTime",
+    "region": "Hong Kong / Shanghai",
+    "url": "https://www.sensetime.com/en/join-us",
+    "note": ""
+  },
+  {
+    "company": "DiDi",
+    "region": "Beijing",
+    "url": "https://talent.didiglobal.com/",
+    "note": ""
+  },
+  {
+    "company": "Bilibili",
+    "region": "Shanghai",
+    "url": "https://jobs.bilibili.com/campus",
+    "note": ""
+  },
+  {
+    "company": "Samsung Electronics",
+    "region": "Seoul / Suwon",
+    "url": "https://www.samsungcareers.com/",
+    "note": ""
+  },
+  {
+    "company": "SK Hynix",
+    "region": "Seoul / Icheon",
+    "url": "https://recruit.skhynix.com/",
+    "note": ""
+  },
+  {
+    "company": "LG Electronics",
+    "region": "Seoul",
+    "url": "https://www.lgcareers.com/",
+    "note": ""
+  },
+  {
+    "company": "Naver",
+    "region": "Seongnam",
+    "url": "https://recruit.navercorp.com/",
+    "note": ""
+  },
+  {
+    "company": "Kakao",
+    "region": "Seoul / Jeju",
+    "url": "https://careers.kakao.com/",
+    "note": ""
+  },
+  {
+    "company": "Coupang",
+    "region": "Seoul",
+    "url": "https://www.coupang.jobs/en/",
+    "note": ""
+  },
+  {
+    "company": "Krafton",
+    "region": "Seoul",
+    "url": "https://www.krafton.com/en/careers/",
+    "note": ""
+  },
+  {
+    "company": "Hyundai Motor",
+    "region": "Seoul",
+    "url": "https://careers.hyundai.com/",
+    "note": ""
+  },
+  {
+    "company": "Seoulstart (intl-student aggregator)",
+    "region": "Seoul",
+    "url": "https://seoulstart.com/jobs/internships",
+    "note": "D-10 visa, English-friendly roles"
+  },
+  {
+    "company": "Rakuten",
+    "region": "Tokyo",
+    "url": "https://rakuten.careers/",
+    "note": ""
+  },
+  {
+    "company": "LY Corporation (LINE / Yahoo)",
+    "region": "Tokyo",
+    "url": "https://www.lycorp.co.jp/en/recruit/",
+    "note": ""
+  },
+  {
+    "company": "Mercari",
+    "region": "Tokyo",
+    "url": "https://careers.mercari.com/",
+    "note": ""
+  },
+  {
+    "company": "Sony",
+    "region": "Tokyo",
+    "url": "https://www.sony.com/en/SonyInfo/Careers/",
+    "note": ""
+  },
+  {
+    "company": "Nintendo",
+    "region": "Kyoto",
+    "url": "https://www.nintendo.co.jp/jobs/",
+    "note": ""
+  },
+  {
+    "company": "SoftBank",
+    "region": "Tokyo",
+    "url": "https://www.softbank.jp/recruit/",
+    "note": ""
+  },
+  {
+    "company": "Preferred Networks",
+    "region": "Tokyo",
+    "url": "https://www.preferred.jp/en/careers/",
+    "note": ""
+  },
+  {
+    "company": "Sea / Shopee / Garena",
+    "region": "Singapore",
+    "url": "https://career.sea.com/",
+    "note": ""
+  },
+  {
+    "company": "Grab",
+    "region": "Singapore / Kuala Lumpur / Jakarta",
+    "url": "https://www.grab.careers/en/",
+    "note": ""
+  },
+  {
+    "company": "GoTo (Gojek / Tokopedia)",
+    "region": "Jakarta / Singapore",
+    "url": "https://www.gotocompany.com/en/careers",
+    "note": ""
+  },
+  {
+    "company": "Razer",
+    "region": "Singapore",
+    "url": "https://careers.razer.com/",
+    "note": ""
+  },
+  {
+    "company": "Flipkart",
+    "region": "Bengaluru",
+    "url": "https://www.flipkartcareers.com/",
+    "note": ""
+  },
+  {
+    "company": "Zomato",
+    "region": "Gurugram",
+    "url": "https://www.zomato.com/careers",
+    "note": ""
+  },
+  {
+    "company": "Paytm",
+    "region": "Noida",
+    "url": "https://paytm.com/careers",
+    "note": ""
+  }
+]

@@ -54,21 +54,40 @@ def category(title: str) -> str:
 
 
 _YEAR_RE = re.compile(r"\b(20\d{2})\b")
+# Academic-year ranges: "2026-27", "2026/2027", "2026 – 27", "AY2026-2027"
+_RANGE_RE = re.compile(r"(20\d{2})\s*[-/–]\s*(20\d{2}|\d{2})\b")
+
+
+def detect_years(title: str) -> set[int]:
+    """All calendar years a title refers to, expanding ranges like 2026-27."""
+    t = title or ""
+    years: set[int] = set()
+    for m in _RANGE_RE.finditer(t):
+        start = int(m.group(1))
+        tail = m.group(2)
+        end = int(tail) if len(tail) == 4 else (start // 100) * 100 + int(tail)
+        lo, hi = sorted((start, end))
+        years.update(range(lo, hi + 1))
+    for m in _YEAR_RE.finditer(t):
+        years.add(int(m.group(1)))
+    return years
 
 
 def season_year(title: str):
-    m = _YEAR_RE.search(title or "")
-    return m.group(1) if m else None
+    """Backwards-compatible single-year accessor (first year found, or None)."""
+    ys = detect_years(title)
+    return str(min(ys)) if ys else None
 
 
 def is_stale_year(title: str, target_year: str = "2027") -> bool:
-    """True only if the title names a year strictly older than target."""
-    y = season_year(title)
-    return y is not None and y < target_year
+    """True only if the title names year(s) and ALL of them predate target."""
+    ys = detect_years(title)
+    return bool(ys) and max(ys) < int(target_year)
 
 
 def season_ok(title: str, target_year: str = "2027") -> bool:
-    """Keep if it names the target year OR names no year. Drop only if it names a
-    *different* year (older or a future non-target year like 2028)."""
-    y = season_year(title)
-    return y is None or y == target_year
+    """Keep if the title includes the target year OR names no year at all.
+    Drop only when it names year(s) that don't include the target (e.g. a pure
+    2026 role, or 2028+). Ranges like 2026-27 include 2027 -> kept."""
+    ys = detect_years(title)
+    return (not ys) or (int(target_year) in ys)

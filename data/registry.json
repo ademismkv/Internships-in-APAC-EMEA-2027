@@ -1,16 +1,158 @@
 [
-  { "company": "Optiver", "ats": "greenhouse", "token": "optiver" },
-  { "company": "IMC Trading", "ats": "greenhouse", "token": "imc" },
-  { "company": "Jane Street", "ats": "greenhouse", "token": "janestreet" },
-  { "company": "Hudson River Trading", "ats": "greenhouse", "token": "wearehudsonrivertrading" },
-  { "company": "Jump Trading", "ats": "greenhouse", "token": "jumptrading" },
-  { "company": "DRW", "ats": "greenhouse", "token": "drweng" },
-  { "company": "Marshall Wace", "ats": "greenhouse", "token": "mwinternshipprogram" },
-  { "company": "Millennium", "ats": "greenhouse", "token": "millennium" },
-  { "company": "Squarepoint Capital", "ats": "greenhouse", "token": "squarepointcapital" },
-  { "company": "WorldQuant", "ats": "greenhouse", "token": "worldquant" },
-  { "company": "Grab", "ats": "greenhouse", "token": "grab" },
-  { "company": "Palantir", "ats": "lever", "token": "palantir" },
-  { "company": "GitHub", "ats": "greenhouse", "token": "github" },
-  { "company": "Databricks", "ats": "greenhouse", "token": "databricks" }
+  {
+    "company": "Optiver",
+    "ats": "greenhouse",
+    "token": "optiver",
+    "verified": true
+  },
+  {
+    "company": "Virtu Financial",
+    "ats": "greenhouse",
+    "token": "virtu",
+    "verified": true
+  },
+  {
+    "company": "PDT Partners",
+    "ats": "greenhouse",
+    "token": "pdtpartners",
+    "verified": true
+  },
+  {
+    "company": "Marshall Wace",
+    "ats": "greenhouse",
+    "token": "mwinternshipprogram",
+    "verified": true
+  },
+  {
+    "company": "Chicago Trading Company",
+    "ats": "greenhouse",
+    "token": "chicagotradingcampus",
+    "verified": true
+  },
+  {
+    "company": "Hyannisport Research",
+    "ats": "greenhouse",
+    "token": "hyannisportresearch",
+    "verified": true
+  },
+  {
+    "company": "DRW",
+    "ats": "greenhouse",
+    "token": "drweng",
+    "verified": false
+  },
+  {
+    "company": "Akuna Capital",
+    "ats": "greenhouse",
+    "token": "akunacapital",
+    "verified": false
+  },
+  {
+    "company": "Millennium",
+    "ats": "greenhouse",
+    "token": "millennium",
+    "verified": false
+  },
+  {
+    "company": "Squarepoint Capital",
+    "ats": "greenhouse",
+    "token": "squarepointcapital",
+    "verified": false
+  },
+  {
+    "company": "Flow Traders",
+    "ats": "greenhouse",
+    "token": "flowtraders",
+    "verified": false
+  },
+  {
+    "company": "Da Vinci Derivatives",
+    "ats": "greenhouse",
+    "token": "davinciderivatives",
+    "verified": false
+  },
+  {
+    "company": "Maven Securities",
+    "ats": "greenhouse",
+    "token": "mavensecurities",
+    "verified": false
+  },
+  {
+    "company": "Five Rings",
+    "ats": "greenhouse",
+    "token": "fiverings",
+    "verified": false
+  },
+  {
+    "company": "Belvedere Trading",
+    "ats": "greenhouse",
+    "token": "belvederetrading",
+    "verified": false
+  },
+  {
+    "company": "Old Mission",
+    "ats": "greenhouse",
+    "token": "oldmissioncapital",
+    "verified": false
+  },
+  {
+    "company": "Palantir",
+    "ats": "lever",
+    "token": "palantir",
+    "verified": true
+  },
+  {
+    "company": "Stripe",
+    "ats": "greenhouse",
+    "token": "stripe",
+    "verified": false
+  },
+  {
+    "company": "Databricks",
+    "ats": "greenhouse",
+    "token": "databricks",
+    "verified": false
+  },
+  {
+    "company": "Canva",
+    "ats": "lever",
+    "token": "canva",
+    "verified": false
+  },
+  {
+    "company": "Airwallex",
+    "ats": "lever",
+    "token": "airwallex",
+    "verified": false
+  },
+  {
+    "company": "Nium",
+    "ats": "greenhouse",
+    "token": "nium",
+    "verified": false
+  },
+  {
+    "company": "Western Digital",
+    "ats": "smartrecruiters",
+    "token": "WesternDigital",
+    "verified": true
+  },
+  {
+    "company": "ByteDance",
+    "ats": "bytedance",
+    "api_host": "https://jobs.bytedance.com",
+    "web_host": "https://jobs.bytedance.com/en",
+    "portal_type": 6,
+    "keyword": "intern",
+    "verified": true
+  },
+  {
+    "company": "TikTok",
+    "ats": "bytedance",
+    "api_host": "https://careers.tiktok.com",
+    "web_host": "https://careers.tiktok.com",
+    "portal_type": 6,
+    "keyword": "intern",
+    "verified": false
+  }
 ]

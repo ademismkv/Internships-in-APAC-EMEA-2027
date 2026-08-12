@@ -25,6 +25,30 @@ CITY_REGION = {
     "New Delhi": "South Asia",
     # Oceania (APAC)
     "Sydney": "Oceania", "Melbourne": "Oceania",
+    # --- EMEA ---
+    # UK & Ireland
+    "London": "UK & Ireland", "Dublin": "UK & Ireland", "Edinburgh": "UK & Ireland",
+    "Manchester": "UK & Ireland", "Cambridge": "UK & Ireland",
+    # Western Europe
+    "Amsterdam": "Western Europe", "Paris": "Western Europe", "Berlin": "Western Europe",
+    "Munich": "Western Europe", "Frankfurt": "Western Europe", "Zurich": "Western Europe",
+    "Geneva": "Western Europe", "Brussels": "Western Europe",
+    "Luxembourg": "Western Europe", "Vienna": "Western Europe",
+    # Southern Europe
+    "Madrid": "Southern Europe", "Barcelona": "Southern Europe", "Milan": "Southern Europe",
+    "Lisbon": "Southern Europe", "Rome": "Southern Europe",
+    # Nordics
+    "Stockholm": "Nordics", "Oslo": "Nordics", "Copenhagen": "Nordics",
+    "Helsinki": "Nordics",
+    # Eastern Europe
+    "Warsaw": "Eastern Europe", "Prague": "Eastern Europe", "Budapest": "Eastern Europe",
+    "Bucharest": "Eastern Europe", "Krakow": "Eastern Europe",
+    # Middle East
+    "Dubai": "Middle East", "Abu Dhabi": "Middle East", "Riyadh": "Middle East",
+    "Doha": "Middle East", "Kuwait City": "Middle East", "Tel Aviv": "Middle East",
+    "Istanbul": "Middle East",
+    # Africa
+    "Cairo": "Africa", "Johannesburg": "Africa", "Lagos": "Africa", "Nairobi": "Africa",
 }
 
 ALIASES = {
@@ -48,12 +72,43 @@ ALIASES = {
     "hyderabad": "Hyderabad", "gurugram": "Gurugram", "gurgaon": "Gurugram",
     "pune": "Pune", "chennai": "Chennai", "new delhi": "New Delhi", "delhi": "New Delhi",
     "sydney": "Sydney", "melbourne": "Melbourne",
+    # --- EMEA aliases ---
+    "london": "London", "uk": "London", "united kingdom": "London",
+    "england": "London", "britain": "London", "edinburgh": "Edinburgh",
+    "manchester": "Manchester", "cambridge": "Cambridge",
+    "dublin": "Dublin", "ireland": "Dublin",
+    "amsterdam": "Amsterdam", "netherlands": "Amsterdam", "the netherlands": "Amsterdam",
+    "paris": "Paris", "france": "Paris",
+    "berlin": "Berlin", "munich": "Munich", "münchen": "Munich", "frankfurt": "Frankfurt",
+    "germany": "Berlin", "zurich": "Zurich", "zürich": "Zurich", "geneva": "Geneva",
+    "switzerland": "Zurich", "brussels": "Brussels", "belgium": "Brussels",
+    "luxembourg": "Luxembourg", "vienna": "Vienna", "austria": "Vienna",
+    "madrid": "Madrid", "barcelona": "Barcelona", "spain": "Madrid",
+    "milan": "Milan", "rome": "Rome", "italy": "Milan",
+    "lisbon": "Lisbon", "portugal": "Lisbon",
+    "stockholm": "Stockholm", "sweden": "Stockholm", "oslo": "Oslo", "norway": "Oslo",
+    "copenhagen": "Copenhagen", "denmark": "Copenhagen", "helsinki": "Helsinki",
+    "finland": "Helsinki",
+    "warsaw": "Warsaw", "poland": "Warsaw", "krakow": "Krakow", "kraków": "Krakow",
+    "prague": "Prague", "czech": "Prague", "budapest": "Budapest", "hungary": "Budapest",
+    "bucharest": "Bucharest", "romania": "Bucharest",
+    "dubai": "Dubai", "abu dhabi": "Abu Dhabi", "uae": "Dubai",
+    "riyadh": "Riyadh", "saudi arabia": "Riyadh", "saudi": "Riyadh",
+    "doha": "Doha", "qatar": "Doha", "kuwait city": "Kuwait City", "kuwait": "Kuwait City",
+    "tel aviv": "Tel Aviv", "israel": "Tel Aviv",
+    "istanbul": "Istanbul", "turkey": "Istanbul", "türkiye": "Istanbul",
+    "cairo": "Cairo", "egypt": "Cairo", "johannesburg": "Johannesburg",
+    "south africa": "Johannesburg", "lagos": "Lagos", "nigeria": "Lagos",
+    "nairobi": "Nairobi", "kenya": "Nairobi",
 }
 
-ALL_REGIONS = set(CITY_REGION.values())
+# Region groups.
+APAC_REGIONS = {"East Asia", "Southeast Asia", "South Asia", "Oceania"}
+EMEA_REGIONS = {"UK & Ireland", "Western Europe", "Southern Europe", "Nordics",
+                "Eastern Europe", "Middle East", "Africa"}
+TARGET_REGIONS = APAC_REGIONS | EMEA_REGIONS  # this project tracks EMEA + APAC
 
-# Word tokens across Latin + CJK (hiragana/katakana, unified Han, Hangul), so
-# "Singapore (SG)" -> ["singapore", "sg"] and "東京, Japan" -> ["東京", "japan"].
+ALL_REGIONS = set(CITY_REGION.values())
 _TOKEN = re.compile(r"[0-9a-z\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af]+")
 
 
@@ -73,10 +128,24 @@ def canonical_cities(raw: str) -> list[str]:
     return found
 
 
-def is_apac(raw: str, regions: set[str] = ALL_REGIONS) -> bool:
+def region_of(raw: str) -> str | None:
+    """Macro-region of the first recognized city, or None."""
+    for c in canonical_cities(raw):
+        if c in CITY_REGION:
+            return CITY_REGION[c]
+    return None
+
+
+def is_target(raw: str, regions: set[str] = TARGET_REGIONS) -> bool:
+    """True if the role is in a region this project tracks (EMEA + APAC)."""
     return any(CITY_REGION.get(c) in regions for c in canonical_cities(raw))
 
 
-def display_location(raw: str, regions: set[str] = ALL_REGIONS) -> str:
+def is_apac(raw: str, regions: set[str] = APAC_REGIONS) -> bool:
+    """APAC-only membership (kept for tests / APAC-specific callers)."""
+    return any(CITY_REGION.get(c) in regions for c in canonical_cities(raw))
+
+
+def display_location(raw: str, regions: set[str] = TARGET_REGIONS) -> str:
     cities = [c for c in canonical_cities(raw) if CITY_REGION.get(c) in regions]
     return ", ".join(cities) if cities else raw.strip()

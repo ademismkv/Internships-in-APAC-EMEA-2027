@@ -1,5 +1,5 @@
 name: "➕ Submit an internship"
-description: "Add an APAC internship the automated scrapers missed."
+description: "Add an EMEA or APAC internship the automated scrapers missed."
 title: "[Role] <Company> — <Title>"
 labels: ["new-role"]
 body:
@@ -18,7 +18,7 @@ body:
   - type: input
     id: location
     attributes:
-      label: Location (APAC only)
+      label: Location (EMEA or APAC only)
       placeholder: "Shenzhen / Hong Kong / Singapore / Tokyo / Seoul ..."
     validations: {required: true}
   - type: input
@@ -44,5 +44,5 @@ body:
       label: Checklist
       options:
         - {label: "This is a student/internship role (not new-grad/full-time)", required: true}
-        - {label: "The location is in APAC", required: true}
+        - {label: "The location is in EMEA or APAC", required: true}
         - {label: "The application link works right now", required: true}

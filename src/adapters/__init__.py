@@ -1,5 +1,5 @@
 """Adapter registry: ATS name -> fetch(company, token, **cfg)."""
-from . import ashby, greenhouse, lever, smartrecruiters, workday
+from . import ashby, bytedance, greenhouse, lever, smartrecruiters, workday
 
 ADAPTERS = {
     greenhouse.SOURCE: greenhouse.fetch,
@@ -7,6 +7,7 @@ ADAPTERS = {
     ashby.SOURCE: ashby.fetch,
     workday.SOURCE: workday.fetch,
     smartrecruiters.SOURCE: smartrecruiters.fetch,
+    bytedance.SOURCE: bytedance.fetch,
 }
 
 
