@@ -1,14 +1,32 @@
 # Closed / Archived Roles 🔒
 
-Roles no longer active (15). Kept for reference; never deleted.
+Roles no longer active (33). Kept for reference; never deleted.
 
 | Company | Role | Location | Link | Closed because | Last seen |
 | --- | --- | --- | --- | --- | --- |
+| **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-08-15 |
+| **Citadel** | Site Reliability Engineer - Intern - Asia | Singapore | [link](https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/) | link dead | 2026-08-13 |
+| **SentinelOne** | Software Engineer Intern | Tel Aviv | [link](https://www.sentinelone.com/jobs/?gh_jid=7790858003) | link dead | 2026-08-13 |
+| **Bosch** | BSV Embedded Test Engineer Intern - Matlab/Simulink | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142568223--bsv-embedded-test-engineer-intern-matlab-simulink-?oga=true) | link dead | 2026-08-13 |
+| **Bosch** | Internship Program Q4 Embedded Software Intern - C/C++/Linux | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142550969--internship-program-q4-embedded-software-intern-c-c-linux-?oga=true) | link dead | 2026-08-13 |
+| **Enterpret** | Backend - Onsite Software Engineering Intern | Bengaluru | [link](https://job-boards.greenhouse.io/enterpret/jobs/7847134003) | link dead | 2026-08-13 |
+| **Bosch** | Internship Program Q4 Fullstack Engineer Intern - Java/NodeJS/Python/Django/React/.NET | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142038989--internship-program-q4-fullstack-engineer-intern-java-nodejs-python-django-react-net-?oga=true) | link dead | 2026-08-13 |
+| **Bosch** | Internship Program Q4 DevOps Intern | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142038969--internship-program-q4-devops-intern?oga=true) | link dead | 2026-08-13 |
+| **Red Hat** | Software Engineering Intern | Pune | [link](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560) | link dead | 2026-08-13 |
+| **Bosch** | EDA Embedded Software Intern | Hanoi, Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000141876449--eda-embedded-software-intern?oga=true) | link dead | 2026-08-13 |
+| **NXP Semiconductors** | Internship: Software Developer NFC/UWB System Verification - m/f/d | Vienna | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | link dead | 2026-08-13 |
+| **Motorola Solutions** | Intern Software Developer - C/C++ | Warsaw | [link](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R65919) | link dead | 2026-08-13 |
+| **HP** | Software Security Research Intern | London | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785) | link dead | 2026-08-13 |
+| **HP** | Software Security Research Intern | London | [link](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785-1) | link dead | 2026-08-13 |
+| **NXP Semiconductors** | Intern - f/m/d AI/ML Compiler Engineer | Munich, Berlin | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--AI-ML-Compiler-Engineer_R-10064052) | link dead | 2026-08-13 |
+| **HP** | College Intern - Data Analytics in Supply Chain | Singapore | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4036) | link dead | 2026-08-13 |
+| **GSK** | Internship -Digital - Data and AI - Asia R&D - Singapore - January to June 2027 | Singapore | [link](https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/Singapore---Rochester-Park/Internship--Digital--Data-and-AI--Asia-R-D--Singapore--January-to-June-2027-_444475-1) | link dead | 2026-08-13 |
+| **HP** | Data Analytics & Procurement Intern - EMEA Supply Chain and Logistics | Madrid | [link](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analytics---Procurement-Intern---EMEA-Supply-Chain-and-Logistics_UNI3037-1) | link dead | 2026-08-13 |
+| **ZEISS** | Internship in Machine Learning - Visual Language - Action Models - f/m/x | Munich, Berlin | [link](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Mnchen/Internship-in-Machine-Learning--Visual-Language--Action--Models--f-m-x-_JR_1050685) | link dead | 2026-08-13 |
 | **SentinelOne** | Software Engineer Intern | Tel Aviv | [link](https://www.sentinelone.com/jobs/?gh_jid=7790867003) | link dead | 2026-08-12 |
 | **GRADION** | Software Engineering Intern - 6-month contract | Ho Chi Minh City | [link](https://jobs.lever.co/gradion/8c708c66-0b72-4afe-b9b4-0600ff8b9758) | link dead | 2026-08-12 |
 | **Endava** | Software Developer Intern - 5G | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/Endava/744000138579460-software-developer-intern-5g-?oga=true) | link dead | 2026-08-12 |
 | **Grab** | Software Engineer - Backend - Intern | Beijing | [link](https://jobs.smartrecruiters.com/Grab/744000132319232-software-engineer-backend-intern-?oga=true) | link dead | 2026-08-12 |
-| **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-08-12 |
 | **Hitachi** | Intern - Data Engineer for automatic selection of radio networks | Paris | [link](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Vlizy-Villacoublay-le-de-France-France/Intern---Data-Engineer-for-automatic-selection-of-radio-networks_R0139826) | link dead | 2026-08-12 |
 | **ASML** | Applied Physics Internship: Data Science and Image Processing for SEM Metrology | Amsterdam | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Applied-Physics-Internship--Data-Analysis-and-Tool-Building-for-SEM-Imaging_J-00341379) | link dead | 2026-08-12 |
 | **KONE** | Intern - Data Analyst | Kuala Lumpur | [link](https://kone.wd3.myworkdayjobs.com/en-US/careers/job/Petaling-Jaya/Intern--Data-Analyst_R0663073) | link dead | 2026-08-12 |
