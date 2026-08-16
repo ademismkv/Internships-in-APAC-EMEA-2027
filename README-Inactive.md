@@ -1,10 +1,31 @@
 # Closed / Archived Roles 🔒
 
-Roles no longer active (33). Kept for reference; never deleted.
+Roles no longer active (53). Kept for reference; never deleted.
 
 | Company | Role | Location | Link | Closed because | Last seen |
 | --- | --- | --- | --- | --- | --- |
+| **NXP Semiconductors** | Internship: Software Developer NFC/UWB System Verification - m/f/d | Vienna | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | link dead | 2026-08-16 |
 | **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-08-15 |
+| **Microsoft** | Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities | Cairo | [link](https://apply.careers.microsoft.com/careers/job/1970393556866895) | link dead | 2026-08-14 |
+| **Grab** | Intern - Software Engineer - Mobile - Android | Kuala Lumpur | [link](https://jobs.smartrecruiters.com/Grab/744000140890379-intern-software-engineer-mobile-android-?oga=true) | link dead | 2026-08-14 |
+| **dentsu** | Intern Software Development | Johannesburg | [link](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/Cape-Town/Intern-Software-Development_R1128638) | link dead | 2026-08-14 |
+| **DRW** | Quantitative Developer Intern - Python | Singapore | [link](https://job-boards.greenhouse.io/drweng/jobs/7981754) | link dead | 2026-08-14 |
+| **Moloco** | Software Engineer Intern - 3-month internship | Seoul | [link](https://job-boards.greenhouse.io/moloco/jobs/7793407003) | link dead | 2026-08-14 |
+| **Pear VC** | Software Engineering Intern | London | [link](https://jobs.ashbyhq.com/pear-vc/781a43c0-a13a-4e27-95a8-0dde6279d33f) | link dead | 2026-08-14 |
+| **TikTok** | Research Engineer Intern - AI Infrastructure - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start - PhD | Singapore | [link](https://lifeattiktok.com/search/7629211028353616133) | link dead | 2026-08-14 |
+| **TikTok** | Research Scientist Intern - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start - PhD | Singapore | [link](https://lifeattiktok.com/search/7629209701593139461) | link dead | 2026-08-14 |
+| **TikTok** | Research Scientist Intern - LLM Applications for International E-commerce Scenarios - Global Frontier Tech Recruitment Program - 2027 Start - PhD | Singapore | [link](https://lifeattiktok.com/search/7629211025884154165) | link dead | 2026-08-14 |
+| **TikTok** | Research Scientist Intern - Risk Control Vertical LLM Foundation and Agent - Global Frontier Tech Recruitment Program - 2027 Start - PhD | Singapore | [link](https://lifeattiktok.com/search/7629203247547959557) | link dead | 2026-08-14 |
+| **Aptura** | AI Operations Intern | London | [link](https://jobs.ashbyhq.com/aptura/e1629145-7052-4939-a2d7-6f70dd4ac0a7) | link dead | 2026-08-14 |
+| **GSK** | Internship - Data Analytics and Gen AI for Audit & Assurance - Singapore - January to June 2027 | Singapore | [link](https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/Singapore---Rochester-Park/Internship---Data-Analytics-and-Gen-AI-for-Audit---Assurance--Singapore--January-to-June-2027-_444466-1) | link dead | 2026-08-14 |
+| **Gen** | Data Scientist - Intern - MoneyLion | Kuala Lumpur | [link](https://jobs.ashbyhq.com/gen-digital/020a42a9-7c79-4e6c-958f-726069ff86f0) | link dead | 2026-08-14 |
+| **Gen** | Data Engineer - Intern - MoneyLion | Kuala Lumpur | [link](https://jobs.ashbyhq.com/gen-digital/ec9dc7d0-9ed2-4421-ad61-158462f59e27) | link dead | 2026-08-14 |
+| **Ciena** | Software Engineering Intern - 3-12 Months | London, Edinburgh | [link](https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | link dead | 2026-08-14 |
+| **ASML** | Data Science Internship: Industrialize Robust Design AI agent | Amsterdam | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Data-Science-Internship--Industrialize-Robust-Design-AI-agent_J-00344311) | link dead | 2026-08-14 |
+| **Bosch** | DevOps Engineer Internship | Lisbon | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143128206-devops-engineer-internship?oga=true) | link dead | 2026-08-14 |
+| **Bosch** | C# Developer - Internship | Lisbon | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143129049-c-developer-internship?oga=true) | link dead | 2026-08-14 |
+| **Bosch** | Paid Internship - Junior Developer - macOS - f/m | Warsaw | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143033029-paid-internship-junior-developer-macos-f-m-?oga=true) | link dead | 2026-08-14 |
+| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-08-14 |
 | **Citadel** | Site Reliability Engineer - Intern - Asia | Singapore | [link](https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/) | link dead | 2026-08-13 |
 | **SentinelOne** | Software Engineer Intern | Tel Aviv | [link](https://www.sentinelone.com/jobs/?gh_jid=7790858003) | link dead | 2026-08-13 |
 | **Bosch** | BSV Embedded Test Engineer Intern - Matlab/Simulink | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142568223--bsv-embedded-test-engineer-intern-matlab-simulink-?oga=true) | link dead | 2026-08-13 |
@@ -14,7 +35,6 @@ Roles no longer active (33). Kept for reference; never deleted.
 | **Bosch** | Internship Program Q4 DevOps Intern | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142038969--internship-program-q4-devops-intern?oga=true) | link dead | 2026-08-13 |
 | **Red Hat** | Software Engineering Intern | Pune | [link](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560) | link dead | 2026-08-13 |
 | **Bosch** | EDA Embedded Software Intern | Hanoi, Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000141876449--eda-embedded-software-intern?oga=true) | link dead | 2026-08-13 |
-| **NXP Semiconductors** | Internship: Software Developer NFC/UWB System Verification - m/f/d | Vienna | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | link dead | 2026-08-13 |
 | **Motorola Solutions** | Intern Software Developer - C/C++ | Warsaw | [link](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R65919) | link dead | 2026-08-13 |
 | **HP** | Software Security Research Intern | London | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785) | link dead | 2026-08-13 |
 | **HP** | Software Security Research Intern | London | [link](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785-1) | link dead | 2026-08-13 |
