@@ -1,11 +1,24 @@
 # Closed / Archived Roles 🔒
 
-Roles no longer active (53). Kept for reference; never deleted.
+Roles no longer active (64). Kept for reference; never deleted.
 
 | Company | Role | Location | Link | Closed because | Last seen |
 | --- | --- | --- | --- | --- | --- |
-| **NXP Semiconductors** | Internship: Software Developer NFC/UWB System Verification - m/f/d | Vienna | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | link dead | 2026-08-16 |
+| **NXP Semiconductors** | Internship: Software Developer NFC/UWB System Verification - m/f/d | Vienna | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | link dead | 2026-08-17 |
+| **HP** | College Intern - Data Analytics in Supply Chain | Singapore | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4036) | link dead | 2026-08-17 |
+| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-08-17 |
 | **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-08-15 |
+| **Zendesk** | Machine Learning Engineering Intern | Berlin | [link](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Remote-Germany/Machine-Learning-Engineering-Intern_R35062-1) | link dead | 2026-08-15 |
+| **Micron Technology** | Intern - AI‑Driven Process Development Deposition & Ion implantation | Singapore | [link](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10NX-Singapore/Intern---AI-Driven-Process-Development-Deposition---Ion-implantation_JR100559) | link dead | 2026-08-15 |
+| **ASML** | Data Science - AI Internship: Reinforcement Learning | Amsterdam | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Eindhoven-Netherlands/Data-Science---AI-Internship--Reinforcement-Learning_J-00345364) | link dead | 2026-08-15 |
+| **ASML** | Data Science - AI internship: Spatiotemporal forecasting methods | Amsterdam | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Eindhoven-Netherlands/Data-Science---AI-internship--Spatiotemporal-forecasting-methods_J-00345362) | link dead | 2026-08-15 |
+| **DuPont** | Data Analytics Internship - 6 month program | Singapore | [link](https://dupont.wd5.myworkdayjobs.com/en-US/jobs/job/Marina-Bay-Central-Region/Data-Analytics-Internship--6-month-program-_249767W) | link dead | 2026-08-15 |
+| **Huntsman** | Data Analyst Intern | Kuala Lumpur | [link](https://huntsman.wd1.myworkdayjobs.com/en-US/huntsman/job/Malaysia---Kuala-Lumpur/Data-Analyst-Intern_J-019998) | link dead | 2026-08-15 |
+| **Euronext** | Equity Quant Intern | Paris | [link](https://hrhub.wd3.myworkdayjobs.com/en-US/euronext_career_page/job/Paris/Equity-Quant-Intern_R24279) | link dead | 2026-08-15 |
+| **Bosch** | Internship Program Q4 Embedded Software Intern - C/C++/Linux | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143206979--internship-program-q4-embedded-software-intern-c-c-linux-?oga=true) | link dead | 2026-08-15 |
+| **NXP Semiconductors** | DevOps Intern | Bucharest | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/DevOps-Intern_R-10066169) | link dead | 2026-08-15 |
+| **Accenture** | Data & AI Internship Program - She/He/They | Warsaw | [link](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786) | link dead | 2026-08-15 |
+| **Bosch** | BD Internship - SAP Developer - JS - Java - ABAP - Fiori - BTP | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143222859--bd-internship-sap-developer-js-java-abap-fiori-btp-?oga=true) | link dead | 2026-08-15 |
 | **Microsoft** | Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities | Cairo | [link](https://apply.careers.microsoft.com/careers/job/1970393556866895) | link dead | 2026-08-14 |
 | **Grab** | Intern - Software Engineer - Mobile - Android | Kuala Lumpur | [link](https://jobs.smartrecruiters.com/Grab/744000140890379-intern-software-engineer-mobile-android-?oga=true) | link dead | 2026-08-14 |
 | **dentsu** | Intern Software Development | Johannesburg | [link](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/Cape-Town/Intern-Software-Development_R1128638) | link dead | 2026-08-14 |
@@ -25,7 +38,6 @@ Roles no longer active (53). Kept for reference; never deleted.
 | **Bosch** | DevOps Engineer Internship | Lisbon | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143128206-devops-engineer-internship?oga=true) | link dead | 2026-08-14 |
 | **Bosch** | C# Developer - Internship | Lisbon | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143129049-c-developer-internship?oga=true) | link dead | 2026-08-14 |
 | **Bosch** | Paid Internship - Junior Developer - macOS - f/m | Warsaw | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143033029-paid-internship-junior-developer-macos-f-m-?oga=true) | link dead | 2026-08-14 |
-| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-08-14 |
 | **Citadel** | Site Reliability Engineer - Intern - Asia | Singapore | [link](https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/) | link dead | 2026-08-13 |
 | **SentinelOne** | Software Engineer Intern | Tel Aviv | [link](https://www.sentinelone.com/jobs/?gh_jid=7790858003) | link dead | 2026-08-13 |
 | **Bosch** | BSV Embedded Test Engineer Intern - Matlab/Simulink | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142568223--bsv-embedded-test-engineer-intern-matlab-simulink-?oga=true) | link dead | 2026-08-13 |
@@ -39,7 +51,6 @@ Roles no longer active (53). Kept for reference; never deleted.
 | **HP** | Software Security Research Intern | London | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785) | link dead | 2026-08-13 |
 | **HP** | Software Security Research Intern | London | [link](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785-1) | link dead | 2026-08-13 |
 | **NXP Semiconductors** | Intern - f/m/d AI/ML Compiler Engineer | Munich, Berlin | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--AI-ML-Compiler-Engineer_R-10064052) | link dead | 2026-08-13 |
-| **HP** | College Intern - Data Analytics in Supply Chain | Singapore | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4036) | link dead | 2026-08-13 |
 | **GSK** | Internship -Digital - Data and AI - Asia R&D - Singapore - January to June 2027 | Singapore | [link](https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/Singapore---Rochester-Park/Internship--Digital--Data-and-AI--Asia-R-D--Singapore--January-to-June-2027-_444475-1) | link dead | 2026-08-13 |
 | **HP** | Data Analytics & Procurement Intern - EMEA Supply Chain and Logistics | Madrid | [link](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analytics---Procurement-Intern---EMEA-Supply-Chain-and-Logistics_UNI3037-1) | link dead | 2026-08-13 |
 | **ZEISS** | Internship in Machine Learning - Visual Language - Action Models - f/m/x | Munich, Berlin | [link](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Mnchen/Internship-in-Machine-Learning--Visual-Language--Action--Models--f-m-x-_JR_1050685) | link dead | 2026-08-13 |
