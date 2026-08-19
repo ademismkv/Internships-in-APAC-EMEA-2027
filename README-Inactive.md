@@ -1,13 +1,19 @@
 # Closed / Archived Roles 🔒
 
-Roles no longer active (66). Kept for reference; never deleted.
+Roles no longer active (72). Kept for reference; never deleted.
 
 | Company | Role | Location | Link | Closed because | Last seen |
 | --- | --- | --- | --- | --- | --- |
-| **NXP Semiconductors** | Internship: Software Developer NFC/UWB System Verification - m/f/d | Vienna | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | link dead | 2026-08-18 |
+| **NXP Semiconductors** | Internship: Software Developer NFC/UWB System Verification - m/f/d | Vienna | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | link dead | 2026-08-19 |
+| **Wingtra AG** | Robotics Firmware Intern - Drone Platform & Systems | Zurich | [link](https://jobs.lever.co/wingtra-2/45a54b09-c92c-4607-b17f-9254de177c16) | link dead | 2026-08-18 |
+| **Wingtra AG** | Robotics Firmware Intern - GNC focus | Zurich | [link](https://jobs.lever.co/wingtra-2/516a1b2b-961a-41dd-bc22-f82fd0ba86b4) | link dead | 2026-08-18 |
 | **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-08-18 |
 | **HP** | College Intern - Data Analytics in Supply Chain | Singapore | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4036) | link dead | 2026-08-18 |
 | **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-08-18 |
+| **P&G - Procter & Gamble** | Data Engineering Intern | Paris | [link](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891) | link dead | 2026-08-17 |
+| **Razer** | AI Engineer Intern | Singapore | [link](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/AI-Engineer-Intern_JR2026006947) | link dead | 2026-08-17 |
+| **Unisys** | AI Engineering Intern | Bengaluru | [link](https://unisys.wd5.myworkdayjobs.com/en-US/external/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574279) | link dead | 2026-08-17 |
+| **SpotDraft** | AI Engineering Intern | Bengaluru | [link](https://jobs.ashbyhq.com/spotdraft/e9258e1d-2302-4607-819e-7fbd209ddc05) | link dead | 2026-08-17 |
 | **HP** | College Intern - Data Analytics in Supply Chain | Singapore | [link](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4036-1) | link dead | 2026-08-16 |
 | **Axiomatic_AI** | Internship - Research Intern - AI for Scientific Reasoning | Madrid | [link](https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4845060101) | link dead | 2026-08-16 |
 | **Zendesk** | Machine Learning Engineering Intern | Berlin | [link](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Remote-Germany/Machine-Learning-Engineering-Intern_R35062-1) | link dead | 2026-08-15 |
