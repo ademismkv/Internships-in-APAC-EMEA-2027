@@ -1,15 +1,27 @@
 # Closed / Archived Roles 🔒
 
-Roles no longer active (91). Kept for reference; never deleted.
+Roles no longer active (102). Kept for reference; never deleted.
 
 | Company | Role | Location | Link | Closed because | Last seen |
 | --- | --- | --- | --- | --- | --- |
-| **ZEISS** | Internship in Machine Learning - Visual Language - Action Models - f/m/x | Munich, Berlin | [link](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Mnchen/Internship-in-Machine-Learning--Visual-Language--Action--Models--f-m-x-_JR_1050685) | link dead | 2026-08-20 |
+| **Enterpret** | Backend - Onsite Software Engineering Intern | Bengaluru | [link](https://job-boards.greenhouse.io/enterpret/jobs/7847134003) | link dead | 2026-08-21 |
+| **ZEISS** | Internship in Machine Learning - Visual Language - Action Models - f/m/x | Munich, Berlin | [link](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Mnchen/Internship-in-Machine-Learning--Visual-Language--Action--Models--f-m-x-_JR_1050685) | link dead | 2026-08-21 |
+| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-08-21 |
 | **Accenture** | Data & AI Internship Program - She/He/They | Warsaw | [link](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786) | link dead | 2026-08-20 |
-| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-08-20 |
+| **ASML** | Software Testing Development Intern - Internship | Shenzhen | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Shenzhen-China/Software-Testing-Development-Intern--Internship-_J-00347194) | link dead | 2026-08-19 |
 | **NXP Semiconductors** | Internship: Software Developer NFC/UWB System Verification - m/f/d | Vienna | [link](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | link dead | 2026-08-19 |
+| **ASML** | Vocational - MBO Software engineering - computer science internship: Alignment Diagnostic Tool | Amsterdam | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Software-engineering---computer-science-internship--Alignment-Diagnostic-Tool_J-00337268-1) | link dead | 2026-08-19 |
+| **Cohesity** | Data Analyst- Intern- London | London | [link](https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Cohesity---London/Data-Analyst--Intern--London_R04433) | link dead | 2026-08-19 |
+| **Hitachi** | Internship in Business Transformation & AI Adoption 30% - f/m/d | Zurich | [link](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Zurich-Zurich-Switzerland/Internship-in-Business-Transformation---AI-Adoption-30---f-m-d-_R0139694) | link dead | 2026-08-19 |
+| **HP** | College Intern - Mechatronic Systems & AI Design | Singapore | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Singapore-South-West-Singapore/College-Intern---Mechatronic-Systems---AI-Design_UNI4652) | link dead | 2026-08-19 |
 | **HERE Technologies** | Internship - AI & Market Signals | Amsterdam | [link](https://careers-here.icims.com/jobs/81882/internship-%e2%80%93-ai-%26-market-signals/job) | link dead | 2026-08-19 |
+| **Scopely** | Intern - Gen. AI Art | Bengaluru | [link](https://job-boards.greenhouse.io/scopely/jobs/5341537008?gh_jid=5341537008) | link dead | 2026-08-19 |
+| **Biogen** | Advanced Process Data Analytics and Modeling Internship | Zurich | [link](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Solothurn-Switzerland/Advanced-Process-Data-Analytics-and-Modeling-Internship_REQ23652) | link dead | 2026-08-19 |
+| **Wintermute** | DeFi Algorithmic Trading Internship | Singapore | [link](https://jobs.lever.co/wintermute-trading/f512e856-a6e8-4aac-bae1-430b2ed0ea57) | link dead | 2026-08-19 |
 | **TomTom** | Maps Speeds Directions - Software Engineering Internship - Lodz | Warsaw | [link](https://jobs.eu.lever.co/tomtom/38ec9198-99a1-4a83-bc05-932e1193ad80) | link dead | 2026-08-19 |
+| **Bosch** | SX/EIT-MM Data & AI / AI Agent Engineer Intern | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142799969--sx-eit-mm-data-ai-ai-agent-engineer-intern?oga=true) | link dead | 2026-08-19 |
+| **ZEISS** | Internship Data Scientist in Zurich - f/m/x | Zurich | [link](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Zurich/Internship-Data-Scientist-in-Zurich--f-m-x-_JR_1049900) | link dead | 2026-08-19 |
+| **Cadence** | Product Validation Intern - Digital Backend | Shanghai | [link](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SHANGHAI/Product-Validation-Intern---Digital-Backend_R55570) | link dead | 2026-08-19 |
 | **GE Vernova** | Grid Automation & Software Intern | Cairo | [link](https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Cairo/Grid-Automation---Software-Intern_R5041905-1) | link dead | 2026-08-18 |
 | **Payoneer** | Software Development Intern | Guangzhou | [link](https://www.payoneer.com/careers/position/8043129/?gh_jid=8043129) | link dead | 2026-08-18 |
 | **Wingtra AG** | Robotics Firmware Intern - Drone Platform & Systems | Zurich | [link](https://jobs.lever.co/wingtra-2/45a54b09-c92c-4607-b17f-9254de177c16) | link dead | 2026-08-18 |
@@ -70,7 +82,6 @@ Roles no longer active (91). Kept for reference; never deleted.
 | **SentinelOne** | Software Engineer Intern | Tel Aviv | [link](https://www.sentinelone.com/jobs/?gh_jid=7790858003) | link dead | 2026-08-13 |
 | **Bosch** | BSV Embedded Test Engineer Intern - Matlab/Simulink | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142568223--bsv-embedded-test-engineer-intern-matlab-simulink-?oga=true) | link dead | 2026-08-13 |
 | **Bosch** | Internship Program Q4 Embedded Software Intern - C/C++/Linux | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142550969--internship-program-q4-embedded-software-intern-c-c-linux-?oga=true) | link dead | 2026-08-13 |
-| **Enterpret** | Backend - Onsite Software Engineering Intern | Bengaluru | [link](https://job-boards.greenhouse.io/enterpret/jobs/7847134003) | link dead | 2026-08-13 |
 | **Bosch** | Internship Program Q4 Fullstack Engineer Intern - Java/NodeJS/Python/Django/React/.NET | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142038989--internship-program-q4-fullstack-engineer-intern-java-nodejs-python-django-react-net-?oga=true) | link dead | 2026-08-13 |
 | **Bosch** | Internship Program Q4 DevOps Intern | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142038969--internship-program-q4-devops-intern?oga=true) | link dead | 2026-08-13 |
 | **Red Hat** | Software Engineering Intern | Pune | [link](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560) | link dead | 2026-08-13 |
