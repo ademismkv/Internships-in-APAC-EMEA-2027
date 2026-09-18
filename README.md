@@ -2,9 +2,9 @@
 
 A community-maintained, auto-aggregated list of **student internships across EMEA & APAC** — software, quant, data/ML, hardware, and product roles for any 2027 season. Covers London, Dublin, Amsterdam, Berlin, Paris, Zurich, Dubai, Tel Aviv and the wider EMEA region, plus Singapore, Hong Kong, Tokyo, Seoul, Shanghai, Bengaluru, SE Asia and Oceania.
 
-**561 active roles** · updated automatically · contribute via [issue](../../issues/new/choose)
+**587 active roles** · updated automatically · contribute via [issue](../../issues/new/choose)
 
-💻 [Software Engineering](#software-engineering) (301) · 📈 [Quantitative Finance](#quantitative-finance) (77) · 🤖 [Data Science, AI & ML](#data-science-ai--ml) (168) · 🔧 [Hardware Engineering](#hardware-engineering) (14) · 📱 [Product Management](#product-management) (1)
+💻 [Software Engineering](#software-engineering) (320) · 📈 [Quantitative Finance](#quantitative-finance) (79) · 🤖 [Data Science, AI & ML](#data-science-ai--ml) (173) · 🔧 [Hardware Engineering](#hardware-engineering) (14) · 📱 [Product Management](#product-management) (1)
 
 > 🆕 posted today · `Nd` = days listed · 🔒 closed roles live in [README-Inactive.md](README-Inactive.md) · 🗂️ can't-auto-scrape employers are in the [Company Directory](DIRECTORY.md)
 
@@ -14,181 +14,200 @@ A community-maintained, auto-aggregated list of **student internships across EME
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
-| **Marsh McLennan** | Oliver Wyman - Internship - Data & Analytics - Spain | Madrid | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Madrid---Castellana/Oliver-Wyman---Internship---Data---Analytics----Spain_R_323473) | 🆕 |
-| **Marsh McLennan** | Oliver Wyman - Internship - Data & Analytics - Spain | Madrid | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Madrid---Castellana/Oliver-Wyman---Internship---Data---Analytics----Spain_R_323473-1) | 🆕 |
-| **Javelin Global Commodities** | Summer Intern: Software Engineering | London | [Apply](https://apply.workable.com/javelin-global-commodities/j/C2B7BC10AD/) | 🆕 |
-| **GoVenti** | C++ Software Engineer Intern - Control | Singapore | [Apply](https://jobs.ashbyhq.com/goventi/52c162ad-20c4-4db0-ae4f-cc4d1218bc67) | 🆕 |
-| **DV Trading** | 2027 Software Developer Intern - DV Equities | Hong Kong | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) | 🆕 |
-| **Bosch** | Software Function Developer intern | Budapest | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149529787-software-function-developer-intern?oga=true) | 🆕 |
-| **Accenture** | AWS Backend Developer - Python/Node.js Internship Program - She/He/They | Warsaw | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Lodz-University-Business-Park/AWS-Backend-Developer--Python-Nodejs--Internship-Program--She-He-They-_R00311112) | 🆕 |
-| **Visier** | Software Developer Intern - January to June 2027 | Singapore | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711074006) | 1d |
-| **Scale AI** | Software Engineering Intern - Summer 2027 | Doha | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | 1d |
-| **Scale AI** | Software Engineering Intern - Summer 2027 | London | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | 1d |
-| **SPAICE** | Software Engineering Intern | London | [Apply](https://jobs.ashbyhq.com/spaice-tech/16468d27-11e9-498c-87b6-3469f5f4ee12) | 1d |
-| **Portcast** | Data Analyst Intern | Singapore | [Apply](https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e) | 1d |
-| **Microsoft** | Cloud Solution Architecture Intern | Brussels | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556998387) | 1d |
-| **Figma** | Software Engineer Intern - London - United Kingdom - Summer 2027 | London | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) | 1d |
-| **Fanvue** | Software Engineer - Intern | London | [Apply](https://jobs.ashbyhq.com/fanvue.com/9ba53c5b-dcc7-4e6c-8ecc-0647a62761ce) | 1d |
-| **Red Hat** | Software Engineering Internship- OpenShift Observability - Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Software-Engineering-Internship--OpenShift-Observability--Waterford-office--Ireland-_R-059227) | 2d |
-| **Red Hat** | Software Engineering Internship - Trusted Artifact Signer - Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Software-Engineering-Internship---Trusted-Artifact-Signer--Waterford-office--Ireland-_R-059210) | 2d |
-| **Red Hat** | Software Engineering Full-Stack Internship - GenAI Studio - Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Software-Engineering-Full-Stack-Internship---GenAI-Studio--Waterford-office--Ireland-_R-059199) | 2d |
-| **NXP Semiconductors** | Internship: Software Test Engineer - JavaCard Applications - m/f/d | Vienna | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer---Tools--m-f-d-_R-10060873-1) | 2d |
-| **NXP Semiconductors** | Internship: Software Application Developer - Cryptographic Validation System - m/f/d | Vienna | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Application-Developer---Cryptographic-Validation-System--m-f-d-_R-10066725) | 2d |
-| **NVIDIA** | Linux for Edge System Software Engineer - RDSS intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971) | 2d |
-| **NTT** | Technical Developer Intern | Jakarta | [Apply](https://nttlimited.wd3.myworkdayjobs.com/en-US/ntt_careers/job/Jakarta-Indonesia/Technical-Developer-Intern_R-150206) | 2d |
-| **Stryker** | Data Analytics Co-op Placement 2027 | Dublin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Carrigtwohill-Ireland/Data-Analytics-Co-op-Placement-2027_R572164) | 4d |
-| **Quest** | Software Engineering Intern -- MTU & UCC Students Only | Dublin | [Apply](https://careers-quest.icims.com/jobs/13738/software-engineering-intern----mtu-%26-ucc-students-only/job) | 4d |
-| **NTT** | Data Engineer Intern | Jakarta | [Apply](https://nttlimited.wd3.myworkdayjobs.com/en-US/ntt_careers/job/Jakarta-Indonesia/Data-Engineer-Intern_R-150199) | 4d |
-| **Bosch** | Extracurricular Internship: Agile Moderator & Data Engineering - f/m/div. | Lisbon | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148963738-extracurricular-internship-agile-moderator-data-engineering-f-m-div-?oga=true) | 4d |
-| **Arista Networks** | Intern Software Engineer - C/C++ | Warsaw | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true) | 4d |
-| **Arista Networks** | Software Engineer Intern 2026/2027 | Dublin | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149024979-software-engineer-intern-2026-2027?oga=true) | 4d |
-| **Sentry** | Software Engineer - Intern - Summer 2027 | Vienna | [Apply](https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2) | 5d |
-| **Razer** | Product Developer Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Product-Developer-Intern_JR2026007822) | 5d |
-| **Razer** | Software Engineer Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Engineer-Intern_JR2026007809) | 5d |
-| **Razer** | Large Language Model Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Large-Language-Model-Intern_JR2026007862) | 5d |
-| **NVIDIA** | System Software Engineering Intern - GPU - 2027 | Warsaw | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) | 5d |
-| **Motorola Solutions** | Software Engineer Intern | Kuala Lumpur | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Penang-Malaysia/Software-Engineer-Intern_R68790) | 5d |
-| **Motorola Solutions** | Intern Software Developer - Java | Warsaw | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R68285) | 5d |
-| **Motorola Solutions** | Intern Software Developer - C# | Warsaw | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Krakow-Poland/Intern-Software-Developer--C--_R67818) | 5d |
-| **ING** | Internship Scalable Data & Analytics Services | Amsterdam | [Apply](https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-Scalable-Data---Analytics--Services_REQ-10121239) | 5d |
-| **Coinhako** | Data Analyst Intern - Finance - January to May 2027 | Singapore | [Apply](https://jobs.ashbyhq.com/coinhako/ca138875-277c-4045-858c-3ee0cd5b44ed) | 5d |
-| **Boeing** | Data Analytics Intern - 6 Months | London | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/GBR---Bristol-UK/Data-Analytics-Intern---6-Months_JR2026523727-1) | 5d |
-| **Boeing** | Data Analytics Intern - 12 Month Placement | London | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/GBR---Bristol-UK/Data-Analytics-Intern---12-Month-Placement_JR2026523726) | 5d |
-| **Bayut  dubizzle** | Data Engineer - Intern | Dubai | [Apply](https://apply.workable.com/bayutdubizzle/j/6108ED2809/) | 5d |
-| **Amadeus** | Internship - DevOps Engineer | Paris | [Apply](https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---DevOps-Engineer_R37332) | 5d |
-| **Amadeus** | Internship - Software Engineer | Paris | [Apply](https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---Software-Engineer_R37331) | 5d |
-| **Amadeus** | Internship - Data engineer | Paris | [Apply](https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---Data-engineer_R37334) | 5d |
-| **Toast** | Software Engineering Intern | Dublin | [Apply](https://careers.toasttab.com/jobs?gh_jid=8187654) | 6d |
-| **Thales** | Software Engineer Intern | Singapore | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Engineer-Intern_R0339658) | 6d |
-| **Sierra** | Software Engineer Intern - Agent - Summer 2027 | Singapore | [Apply](https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17) | 6d |
-| **Intel** | System Software Engineering Intern | Kuala Lumpur | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) | 6d |
-| **Intel** | Software Solutions Eng PhD Intern | Dublin | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | 6d |
-| **Barclays** | 2027 Technology Developer Summer Internship Programme Glasgow | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) | 6d |
-| **Barclays** | 2027 Technology Developer Summer Internship Programme London | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) | 6d |
-| **Barclays** | 2027 Technology Developer Summer Internship Programme Knutsford | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) | 6d |
-| **Anduril** | 2027 Software Engineer Intern | Dublin | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) | 6d |
-| **Anduril** | 2027 Software Quality Assurance Intern | Dublin | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007) | 6d |
-| **Thermo Fisher Scientific** | Intern Software Engineer - Infrastructure as Code | Amsterdam | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1) | 7d |
-| **NVIDIA** | System Software Intern - Video Chips - Summer 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) | 7d |
-| **Grab** | Intern - Software Engineer Mobile | Kuala Lumpur | [Apply](https://jobs.smartrecruiters.com/Grab/744000148399141-intern-software-engineer-mobile?oga=true) | 7d |
-| **F5** | Software Development Intern - WAF & WAAP | Tel Aviv | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/Software-Development-Intern---WAF---WAAP_RP1038705) | 7d |
-| **F5** | DevOps & Cloud Infrastructure Intern | Tel Aviv | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/DevOps---Cloud-Infrastructure-Intern_RP1038691) | 7d |
-| **F5** | Software Development Intern | Tel Aviv | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/Software-Development-Intern_RP1038706) | 7d |
-| **Datadog** | Software Engineering Intern | Paris | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) | 7d |
-| **Datadog** | Software Engineering Intern | Madrid | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) | 7d |
-| **ArianeGroup** | Internship and Masterthesis - m/f/d in the Area of Large Language Model - LLM for automation of production processes | Berlin | [Apply](https://arianegroup.wd3.myworkdayjobs.com/en-US/externalall/job/Bremen/Internship-and-Masterthesis--m-f-d--in-the-Area-of-Large-Language-Model--LLM--for-automation-of-production-processes_JR-0020318-1) | 7d |
-| **rubrik** | Software Engineer - CPD - Winter Intern | Bengaluru | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | 8d |
-| **rubrik** | Software Engineer - Winter Intern | Bengaluru | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 8d |
-| **Thermo Fisher Scientific** | Sr. Operations Data Analytics Intern | Ho Chi Minh City | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Ho-Chi-Minh-City-Vietnam/Sr-Operations-Data-Analytics-Intern_R-01366619) | 8d |
-| **Stripe** | Software Engineer - Intern | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) | 8d |
-| **Rakuten Kobo** | Software Developer Intern - Dublin | Dublin | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/kobo/job/Dublin-Ireland/Software-Developer-Intern--Dublin-_1037090-1) | 8d |
-| **Micron Technology** | Intern - STPG PE Firmware | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318) | 8d |
-| **Intel** | DevOps and Software Engineering Intern | Kuala Lumpur | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) | 8d |
-| **Intel** | Intern System Software Development Engineer | Kuala Lumpur | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) | 8d |
-| **Google** | Software Engineering PhD Intern - Summer 2027 | Bengaluru | [Apply](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | 8d |
-| **AIA Group** | Intern - Data Engineer | Kuala Lumpur | [Apply](https://aia.wd3.myworkdayjobs.com/en-US/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern--Data-Engineer_JR-69839-1) | 8d |
-| **Stripe** | Software Engineer, Intern | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) | 9d |
-| **YouTrip** | Data Analytics Intern | Singapore | [Apply](https://apply.workable.com/youtrip/j/34787A0AE7/) | 11d |
-| **Stryker** | Information Systems & Data Analytics Co-Op Placements 2027 - Cork | Dublin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Cork-Ireland/Information-Systems---Data-Analytics-Co-Op-Placements-2027---Cork_R570852) | 11d |
-| **PwC** | Salesforce Developer - Intern - Napoli - ADV | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/en-US/nonpublic_postings/job/Naples/Salesforce-Developer---Intern---Napoli--ADV-_684823WD) | 11d |
-| **HP** | Data Analyst Intern | Madrid | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI3248-1) | 11d |
-| **HP** | Data Analyst Intern | Madrid | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI3248) | 11d |
-| **Workato** | Intern - Data Engineering | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8731177002#open-roles) | 12d |
-| **Trend Micro** | QA Automation & Cloud Deployment Intern - V1SPC | Taipei | [Apply](https://trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Taipei/QA-Automation---Cloud-Deployment-Intern--V1SPC-_R0010176) | 12d |
-| **Thales** | Software Development and Integration Engineer - Intern | Singapore | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158) | 12d |
-| **Thales** | DevOps Intern | Madrid | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Madrid/DevOps-Intern_R0336368-1) | 12d |
-| **Thales** | Software Engineering Intern | Madrid | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Madrid/Software-Engineering-Intern_R0336381-1) | 12d |
-| **Stryker** | Commercial Finance: Data Analytics & Reporting Co-Op | Dublin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Carrigtwohill-Ireland/Commercial-Finance--Data-Analytics---Reporting-Co-Op_R572114) | 12d |
-| **Sony** | Computer Vision Research Intern - m/f | Zurich | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/Schlieren/Computer-Vision-Research-Intern--m-f-_JR-119565-1) | 12d |
-| **Jump Trading** | Campus Python Software Engineer - Intern | Shanghai | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027923) | 12d |
-| **Jump Trading** | Campus C++ Software Engineer - Intern | Shanghai | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027860) | 12d |
-| **Hitachi** | Internship - Software Asset Management | Warsaw | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1) | 12d |
-| **Hewlett Packard Enterprise** | Cloud Developer Internship | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Cloud-Developer-Internship_1211001) | 12d |
-| **Hewlett Packard Enterprise** | Systems/Software Engineer - Internship | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Systems-Software-Engineer--Internship-_1214490) | 12d |
-| **Hewlett Packard Enterprise** | Internship - Cloud Dev Engineering | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Internship---Cloud-Dev-Engineering_1211017) | 12d |
-| **Google** | Software Engineering BS/MS Intern - 2027 | Bucharest | [Apply](https://www.google.com/about/careers/applications/jobs/results/83199557986329286) | 12d |
-| **Google** | Part-Time Software Engineering BS/MS Intern - 2027 | Tel Aviv | [Apply](https://www.google.com/about/careers/applications/jobs/results/103632882076918470) | 12d |
-| **Google** | Software Engineering - Site Reliability Engineering BS/MS Intern - 2027 | Zurich | [Apply](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) | 12d |
-| **Google** | Software Engineering - Site Reliability Engineering BS/MS Intern - 2027 | Warsaw | [Apply](https://www.google.com/about/careers/applications/jobs/results/121543376737575622) | 12d |
-| **Google** | Software Engineering - Site Reliability Engineering BS/MS Intern - 2027 | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/100028133205254854) | 12d |
-| **GoTo** | Data Analyst Intern | Jakarta | [Apply](https://jobs.lever.co/GoToGroup/f3566bb7-f2fd-4aef-bf2d-a1e0108d24e3) | 12d |
-| **Marsh McLennan** | Oliver Wyman - Data & Analytics Internship - Italy | Milan | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Milan---Broletto/Oliver-Wyman---Data---Analytics-Internship---Italy_R_364432) | 13d |
-| **Marsh McLennan** | Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam | Amsterdam | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Amsterdam---Strawinskylaan-381/Oliver-Wyman---Data---Analytics-Intern-Analyst----Amsterdam_R_364450-2) | 13d |
-| **Marsh McLennan** | Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam | Amsterdam | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Amsterdam---Strawinskylaan-381/Oliver-Wyman---Data---Analytics-Intern-Analyst----Amsterdam_R_364450-1) | 13d |
-| **Stryker** | Internship Artificial Intelligence & Surgical Navigation - 6 Months - Start Spring 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Internship-Artificial-Intelligence---Surgical-Navigation---6-Months---Start-Spring-2027_R572144) | 14d |
-| **Michelin** | IT Software Development & Digitalization Intern | Jakarta | [Apply](https://michelinhr.wd3.myworkdayjobs.com/en-US/michelin/job/Bekasi-Regency-West-Java/Automation-Engineer-Intern--Digitalization-_R-2026027254) | 14d |
-| **Marshall Wace** | Human Capital Placement Year | London | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772729002) | 14d |
-| **DRW** | IT Intern | Singapore | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8173677) | 14d |
-| **Bracco** | Data Analyst Intern | Milan | [Apply](https://bracco.wd103.myworkdayjobs.com/en-US/braccocareers/job/ITA---Milano---Via-Egidio-Folli/Data-Analyst-Intern_JR100349) | 14d |
-| **AIA Group** | Intern - Data Engineer | Kuala Lumpur | [Apply](https://aia.wd3.myworkdayjobs.com/en-US/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern--Data-Engineer_JR-69709-1) | 14d |
-| **Universidad IEU S.C.** | Business Intelligence & Data Analytics Intern / Headquarters | Milan | [Apply](https://galileo.wd3.myworkdayjobs.com/en-US/galileo_career_site/job/Milano/Business-Intelligence---Data-Analytics-Intern---Headquarters_R-29632) | 15d |
-| **Stryker** | Internship Software Test Engineering & Medical Technology - 6 Months - Start Spring 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Internship-Software-Test-Engineering---Medical-Technology---6-Months---Start-Spring-2027_R572140) | 15d |
-| **Stripe** | Software Engineer - Intern | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130867) | 15d |
-| **Stripe** | Software Engineer - Intern | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) | 15d |
-| **Marvell** | Optical Module Software/Firmware Intern | Shanghai | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216) | 15d |
-| **Stryker** | Internship Cloud Applications & Software Engineering - 6 months - Start Spring 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Internship-Cloud-Applications---Software-Engineering---6-months---Start-Spring-2027_R572269) | 16d |
-| **Stryker** | Master’s Internship Research & Development - Sports Medicine Software Engineering - 6 Months - Start April 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Master-s-Internship-Research---Development---Sports-Medicine-Software-Engineering---6-Months---Start-April-2027_R572180) | 16d |
-| **Stripe** | Operations Associate, Apprenticeship | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8131339) | 16d |
-| **Stripe** | Software Engineer, Intern | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130867) | 16d |
-| **Stripe** | Software Engineer, Intern | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) | 16d |
-| **PIMCO** | 2027 Summer Intern - Technology Analyst - Software Engineering - EMEA | London | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) | 16d |
-| **NVIDIA** | Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652) | 16d |
-| **NVIDIA** | Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648) | 16d |
-| **NVIDIA** | System Software Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500) | 16d |
-| **Micron Technology** | Intern - Front-End Materials Procurement Operations | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/Intern---Front-End-Materials-Procurement-Operations_JR108593) | 16d |
-| **Cadence** | EDA PV Intern for Digital Backend Flow | Shanghai | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SHANGHAI/EDA-PV-Intern-for-Digital-Backend-Flow_R56100) | 16d |
-| **Cadence** | EDA PV Intern for Digital Backend Flow | Shanghai | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SHANGHAI/EDA-PV-Intern-for-Digital-Backend-Flow_R56101) | 16d |
-| **TikTok** | Data Analyst Intern - Measurement - CALM - 2027 Start | Singapore | [Apply](https://lifeattiktok.com/search/7677519435083467061) | 17d |
-| **Thermo Fisher Scientific** | Intern Software Scientist - X-ray Spectroscopy | Amsterdam | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Eindhoven-Netherlands/Intern-Software-Scientist---X-ray-Spectroscopy_R-01366276) | 17d |
-| **NVIDIA** | Android Software Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408) | 17d |
-| **ASML** | Computational Physics - Artificial Intelligence internship: EUV Computational Physics & Optics | Amsterdam | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/AI-and-Computational-Physics-for-EUV-Optics-Diagnostics_J-00350714) | 17d |
-| **WATI.io** | Software Development Engineer Intern | Shenzhen | [Apply](https://apply.workable.com/wati-dot-i-o/j/8653E181C2/) | 19d |
-| **Trend Micro** | GRID DEVOPS INTERN | Manila | [Apply](https://trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Manila/GRID-DEVOPS-INTERN_R0010148) | 19d |
-| **Swift** | Site Reliability Engineering - SRE Intern | Kuala Lumpur | [Apply](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467) | 19d |
-| **Sonio** | Clinical Data Analyst intern | Paris | [Apply](https://jobs.ashbyhq.com/sonio/c2a4c162-9e39-4fc7-9de9-49e03536a121) | 19d |
-| **Razer** | Software Testing Intern | Shenzhen | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Shenzhen/Software-Testing-Intern_JR2026007806) | 19d |
-| **NVIDIA** | Developer Technology Engineering Intern - 2027 | Beijing | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122) | 19d |
-| **NVIDIA** | Diagnostic Network Software Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Diagnostic-Network-Software-Engineer--RDSS-Intern-_JR2024300) | 19d |
-| **Leidos** | Intern Software Developer | Melbourne | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Melbourne-Victoria-Australia/Intern-Software-Developer_R-00190834) | 19d |
-| **Brunswick** | Software Engineering Intern | Amsterdam | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Amsterdam-Netherlands/Software-Engineering-Intern_JR-051328) | 19d |
-| **AppLovin** | Backend Engineering Intern - 2027 Summer Internship | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4708449006?gh_jid=4708449006) | 19d |
-| **MUFG** | Operations Project and Data Analytics Intern | Singapore | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-earlycareers/job/Singapore-Office-Marina-One/Operations-Project-and-Data-Analytics-Intern_10079027-WD) | 20d |
-| **Hitachi** | Internship - Full-stack Software Engineer | Warsaw | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Full-stack-Software-Engineer_R0142565-1) | 20d |
-| **Virtu Financial** | 2027 Summer Internship - Client Support | London | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8746197002) | 21d |
-| **Virtu Financial** | 2027 Summer Internship - Technical | London | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8745933002) | 21d |
-| **Robotics and AI Institute** | Internship - Software Engineering | Zurich | [Apply](https://jobs.lever.co/rai/46c744a8-2817-4453-8b3b-20b6d0ea1ed9) | 21d |
-| **MSD** | Intern - D&L Data Analyst | Singapore | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--D-L--Data-Analyst_R403554) | 21d |
-| **ShopBack** | Data Analyst - Internship - H1 2027 | Singapore | [Apply](https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1) | 22d |
-| **CloudSEK** | DevOps Intern | Bengaluru | [Apply](https://job-boards.greenhouse.io/cloudsek/jobs/6149788004) | 22d |
-| **NVIDIA** | Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1) | 23d |
-| **ShopBack** | Software Engineer Intern - QA | Taipei | [Apply](https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116) | 25d |
-| **ShopBack** | Site Reliability Engineer Intern | Singapore | [Apply](https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c) | 26d |
-| **NVIDIA** | Enterprise Software Test Development Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913) | 26d |
-| **NVIDIA** | Test Development Software Engineering Intern - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632) | 26d |
-| **NVIDIA** | Test Development Software Engineering Intern - Aerial - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852) | 26d |
-| **NVIDIA** | Software Engineering Intern - CUDA Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645) | 26d |
-| **NVIDIA** | Software QA Developer Intern - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654) | 26d |
-| **NVIDIA** | Software QA Intern - Spark Rapids - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655) | 26d |
-| **Google** | Software Engineering Intern - PhD - Summer 2027 | Taipei | [Apply](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) | 26d |
-| **TikTok** | Backend Engineer Intern - TikTok Shop by Tokopedia - 2027 Start | Jakarta | [Apply](https://lifeattiktok.com/search/7675226279146375477) | 27d |
-| **TikTok** | Frontend Engineer Intern - TikTok Shop by Tokopedia - 2027 Start | Jakarta | [Apply](https://lifeattiktok.com/search/7675224627606784309) | 27d |
-| **TikTok** | Data Analyst Intern - TikTok Shop - 2027 Start | Singapore | [Apply](https://lifeattiktok.com/search/7674161938776656133) | 27d |
-| **Swift** | Software/Systems Engineer - Intern | Kuala Lumpur | [Apply](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Kuala-Lumpur-Malaysia/Software-Systems-Engineer---Intern_2026-16387) | 27d |
-| **Boeing** | Intern - Software Engineering | Madrid | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1) | 27d |
-| **Boeing** | Intern - Software Engineering | Madrid | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576) | 27d |
-| **Stripe** | Software Engineer - Intern - Summer or Winter | Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=8097801) | 28d |
-| **NVIDIA** | System Software Engineer - GPU and SOC - 2027 RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628) | 28d |
-| **Jabil** | Intern - Software Development Services | Kuala Lumpur | [Apply](https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Penang/Intern---Software-Development-Services_J2461809) | 28d |
-| **Google** | Software Engineering PhD Intern - 2027 | Zurich | [Apply](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | 28d |
-| **ASML** | Software Testing Intern | Shenzhen | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Shenzhen-China/Software-Testing-Intern_J-00340135-2) | 28d |
-| **TikTok** | Data Analyst Intern - TikTok-LIVE - 2027 Start | London | [Apply](https://lifeattiktok.com/search/7674944387893791029) | 29d |
-| **Stripe** | Software Engineer, Intern (Summer or Winter) | Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=8097801) | 29d |
-| **Optiver** | Software Engineer Internship - 2027 Start | Amsterdam | [Apply](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) | 29d |
-| **Optiver** | Software Engineer Internship - 2027 Start | Amsterdam | [Apply](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) | 29d |
-| **Mercedes-Benz Tech Innovation** | Intern Software Development AR - d/m/f/x | Berlin | [Apply](https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Bblingen/Praktikant-Softwareentwicklung-AR--m-w-d-_R0006108) | 29d |
-| **Google** | Software Engineering PhD Intern - 2027 | Warsaw | [Apply](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) | 29d |
-| **Google** | Part-Time Software Engineering PhD Intern - 2027 | Tel Aviv | [Apply](https://www.google.com/about/careers/applications/jobs/results/74922616988541638) | 29d |
-| **Google** | Software Engineering or SRE - PhD Intern - 2027 | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | 29d |
+| **Twilio** | Software Engineer Intern - January 12th start - 23 weeks | Bengaluru | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8190889) | 🆕 |
+| **Talos** | Software Engineer Intern - Infrastructure | London | [Apply](https://jobs.ashbyhq.com/talos-trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935) | 🆕 |
+| **NVIDIA** | Firmware Application Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884) | 🆕 |
+| **NVIDIA** | Server Firmware Developer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558) | 🆕 |
+| **Motorola Solutions** | Software Engineer Intern | Kuala Lumpur | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Penang-Malaysia/Software-Engineer-Intern_R68829) | 🆕 |
+| **Micron Technology** | Intern - NAND Intrinsic Reliability & Data Analytics | Kuala Lumpur | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Penang-Malaysia---Grande/Intern---NAND-Intrinsic-Reliability---Data-Analytics_JR111279) | 🆕 |
+| **Marvell** | Intern - Software Engineer | Hyderabad | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Hyderabad/Intern--Software-Engineer_2604241) | 🆕 |
+| **Hewlett Packard Enterprise** | Systems/Software Engineer - Internship - C++/Linux | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Systems-Software-Engineer---Internship--C---Linux-_1213130) | 🆕 |
+| **F5** | Software Engineering Intern | Dublin | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Cork/Software-Engineering-Intern_RP1038785) | 🆕 |
+| **Clearwater Analytics** | Software Development Intern | Mumbai | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Mumbai/Software-Development-Intern_R12190) | 🆕 |
+| **Clearwater Analytics** | Software Development Intern | London | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---London/Software-Development-Intern_R12097) | 🆕 |
+| **Clearwater Analytics** | Software Development Intern | London | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---London/Software-Development-Intern_R12096) | 🆕 |
+| **Clearwater Analytics** | Software Development Intern | Mumbai | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Mumbai/Software-Development-Intern_R12191) | 🆕 |
+| **Clearwater Analytics** | Software Development Intern | Mumbai | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Mumbai/Software-Development-Intern_R12189) | 🆕 |
+| **Bosch** | Intern - Sales Excellence Data Analyst | Singapore | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149982329-intern-sales-excellence-data-analyst?oga=true) | 🆕 |
+| **Bosch** | Intern - Data Analyst - Operations & Automation | Singapore | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149982483-intern-data-analyst-operations-automation?oga=true) | 🆕 |
+| **Autodesk** | Intern - Software Development Engineer - PSET-Access-ENG | Singapore | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986) | 🆕 |
+| **Autodesk** | Intern - Software Development Engineer - PSET - Product Data - Document Management | Singapore | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Product-Data-Files---Derivatives-_26WD100984) | 🆕 |
+| **Autodesk** | Intern - Software Development Engineer - PSET-Access-ENG | Singapore | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985) | 🆕 |
+| **Autodesk** | Intern - Software Development Engineer - PSET-Access-ENG | Singapore | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1) | 🆕 |
+| **Arista Networks** | Software Engineer Intern 2026/2027 | Dublin | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true) | 🆕 |
+| **Marsh McLennan** | Oliver Wyman - Internship - Data & Analytics - Spain | Madrid | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Madrid---Castellana/Oliver-Wyman---Internship---Data---Analytics----Spain_R_323473) | 1d |
+| **Marsh McLennan** | Oliver Wyman - Internship - Data & Analytics - Spain | Madrid | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Madrid---Castellana/Oliver-Wyman---Internship---Data---Analytics----Spain_R_323473-1) | 1d |
+| **Javelin Global Commodities** | Summer Intern: Software Engineering | London | [Apply](https://apply.workable.com/javelin-global-commodities/j/C2B7BC10AD/) | 1d |
+| **GoVenti** | C++ Software Engineer Intern - Control | Singapore | [Apply](https://jobs.ashbyhq.com/goventi/52c162ad-20c4-4db0-ae4f-cc4d1218bc67) | 1d |
+| **DV Trading** | 2027 Software Developer Intern - DV Equities | Hong Kong | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) | 1d |
+| **Bosch** | Software Function Developer intern | Budapest | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149529787-software-function-developer-intern?oga=true) | 1d |
+| **Accenture** | AWS Backend Developer - Python/Node.js Internship Program - She/He/They | Warsaw | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Lodz-University-Business-Park/AWS-Backend-Developer--Python-Nodejs--Internship-Program--She-He-They-_R00311112) | 1d |
+| **Visier** | Software Developer Intern - January to June 2027 | Singapore | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711074006) | 2d |
+| **Scale AI** | Software Engineering Intern - Summer 2027 | Doha | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | 2d |
+| **Scale AI** | Software Engineering Intern - Summer 2027 | London | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | 2d |
+| **SPAICE** | Software Engineering Intern | London | [Apply](https://jobs.ashbyhq.com/spaice-tech/16468d27-11e9-498c-87b6-3469f5f4ee12) | 2d |
+| **Portcast** | Data Analyst Intern | Singapore | [Apply](https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e) | 2d |
+| **Microsoft** | Cloud Solution Architecture Intern | Brussels | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556998387) | 2d |
+| **Figma** | Software Engineer Intern - London - United Kingdom - Summer 2027 | London | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) | 2d |
+| **Fanvue** | Software Engineer - Intern | London | [Apply](https://jobs.ashbyhq.com/fanvue.com/9ba53c5b-dcc7-4e6c-8ecc-0647a62761ce) | 2d |
+| **Red Hat** | Software Engineering Internship- OpenShift Observability - Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Software-Engineering-Internship--OpenShift-Observability--Waterford-office--Ireland-_R-059227) | 3d |
+| **Red Hat** | Software Engineering Internship - Trusted Artifact Signer - Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Software-Engineering-Internship---Trusted-Artifact-Signer--Waterford-office--Ireland-_R-059210) | 3d |
+| **Red Hat** | Software Engineering Full-Stack Internship - GenAI Studio - Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Software-Engineering-Full-Stack-Internship---GenAI-Studio--Waterford-office--Ireland-_R-059199) | 3d |
+| **NXP Semiconductors** | Internship: Software Test Engineer - JavaCard Applications - m/f/d | Vienna | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer---Tools--m-f-d-_R-10060873-1) | 3d |
+| **NXP Semiconductors** | Internship: Software Application Developer - Cryptographic Validation System - m/f/d | Vienna | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Application-Developer---Cryptographic-Validation-System--m-f-d-_R-10066725) | 3d |
+| **NVIDIA** | Linux for Edge System Software Engineer - RDSS intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971) | 3d |
+| **NTT** | Technical Developer Intern | Jakarta | [Apply](https://nttlimited.wd3.myworkdayjobs.com/en-US/ntt_careers/job/Jakarta-Indonesia/Technical-Developer-Intern_R-150206) | 3d |
+| **Stryker** | Data Analytics Co-op Placement 2027 | Dublin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Carrigtwohill-Ireland/Data-Analytics-Co-op-Placement-2027_R572164) | 5d |
+| **Quest** | Software Engineering Intern -- MTU & UCC Students Only | Dublin | [Apply](https://careers-quest.icims.com/jobs/13738/software-engineering-intern----mtu-%26-ucc-students-only/job) | 5d |
+| **NTT** | Data Engineer Intern | Jakarta | [Apply](https://nttlimited.wd3.myworkdayjobs.com/en-US/ntt_careers/job/Jakarta-Indonesia/Data-Engineer-Intern_R-150199) | 5d |
+| **Bosch** | Extracurricular Internship: Agile Moderator & Data Engineering - f/m/div. | Lisbon | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148963738-extracurricular-internship-agile-moderator-data-engineering-f-m-div-?oga=true) | 5d |
+| **Arista Networks** | Intern Software Engineer - C/C++ | Warsaw | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true) | 5d |
+| **Arista Networks** | Software Engineer Intern 2026/2027 | Dublin | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149024979-software-engineer-intern-2026-2027?oga=true) | 5d |
+| **Sentry** | Software Engineer - Intern - Summer 2027 | Vienna | [Apply](https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2) | 6d |
+| **Razer** | Product Developer Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Product-Developer-Intern_JR2026007822) | 6d |
+| **Razer** | Software Engineer Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Engineer-Intern_JR2026007809) | 6d |
+| **Razer** | Large Language Model Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Large-Language-Model-Intern_JR2026007862) | 6d |
+| **NVIDIA** | System Software Engineering Intern - GPU - 2027 | Warsaw | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) | 6d |
+| **Motorola Solutions** | Software Engineer Intern | Kuala Lumpur | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Penang-Malaysia/Software-Engineer-Intern_R68790) | 6d |
+| **Motorola Solutions** | Intern Software Developer - Java | Warsaw | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R68285) | 6d |
+| **Motorola Solutions** | Intern Software Developer - C# | Warsaw | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Krakow-Poland/Intern-Software-Developer--C--_R67818) | 6d |
+| **Coinhako** | Data Analyst Intern - Finance - January to May 2027 | Singapore | [Apply](https://jobs.ashbyhq.com/coinhako/ca138875-277c-4045-858c-3ee0cd5b44ed) | 6d |
+| **Boeing** | Data Analytics Intern - 6 Months | London | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/GBR---Bristol-UK/Data-Analytics-Intern---6-Months_JR2026523727-1) | 6d |
+| **Boeing** | Data Analytics Intern - 12 Month Placement | London | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/GBR---Bristol-UK/Data-Analytics-Intern---12-Month-Placement_JR2026523726) | 6d |
+| **Bayut  dubizzle** | Data Engineer - Intern | Dubai | [Apply](https://apply.workable.com/bayutdubizzle/j/6108ED2809/) | 6d |
+| **Amadeus** | Internship - DevOps Engineer | Paris | [Apply](https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---DevOps-Engineer_R37332) | 6d |
+| **Amadeus** | Internship - Software Engineer | Paris | [Apply](https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---Software-Engineer_R37331) | 6d |
+| **Amadeus** | Internship - Data engineer | Paris | [Apply](https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---Data-engineer_R37334) | 6d |
+| **Toast** | Software Engineering Intern | Dublin | [Apply](https://careers.toasttab.com/jobs?gh_jid=8187654) | 7d |
+| **Thales** | Software Engineer Intern | Singapore | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Engineer-Intern_R0339658) | 7d |
+| **Sierra** | Software Engineer Intern - Agent - Summer 2027 | Singapore | [Apply](https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17) | 7d |
+| **Intel** | System Software Engineering Intern | Kuala Lumpur | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) | 7d |
+| **Intel** | Software Solutions Eng PhD Intern | Dublin | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | 7d |
+| **Barclays** | 2027 Technology Developer Summer Internship Programme Glasgow | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) | 7d |
+| **Barclays** | 2027 Technology Developer Summer Internship Programme London | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) | 7d |
+| **Barclays** | 2027 Technology Developer Summer Internship Programme Knutsford | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) | 7d |
+| **Anduril** | 2027 Software Engineer Intern | Dublin | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) | 7d |
+| **Anduril** | 2027 Software Quality Assurance Intern | Dublin | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007) | 7d |
+| **Thermo Fisher Scientific** | Intern Software Engineer - Infrastructure as Code | Amsterdam | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1) | 8d |
+| **NVIDIA** | System Software Intern - Video Chips - Summer 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) | 8d |
+| **Grab** | Intern - Software Engineer Mobile | Kuala Lumpur | [Apply](https://jobs.smartrecruiters.com/Grab/744000148399141-intern-software-engineer-mobile?oga=true) | 8d |
+| **F5** | Software Development Intern - WAF & WAAP | Tel Aviv | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/Software-Development-Intern---WAF---WAAP_RP1038705) | 8d |
+| **F5** | DevOps & Cloud Infrastructure Intern | Tel Aviv | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/DevOps---Cloud-Infrastructure-Intern_RP1038691) | 8d |
+| **F5** | Software Development Intern | Tel Aviv | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/Software-Development-Intern_RP1038706) | 8d |
+| **Datadog** | Software Engineering Intern | Paris | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) | 8d |
+| **Datadog** | Software Engineering Intern | Madrid | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) | 8d |
+| **ArianeGroup** | Internship and Masterthesis - m/f/d in the Area of Large Language Model - LLM for automation of production processes | Berlin | [Apply](https://arianegroup.wd3.myworkdayjobs.com/en-US/externalall/job/Bremen/Internship-and-Masterthesis--m-f-d--in-the-Area-of-Large-Language-Model--LLM--for-automation-of-production-processes_JR-0020318-1) | 8d |
+| **rubrik** | Software Engineer - CPD - Winter Intern | Bengaluru | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | 9d |
+| **rubrik** | Software Engineer - Winter Intern | Bengaluru | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 9d |
+| **Thermo Fisher Scientific** | Sr. Operations Data Analytics Intern | Ho Chi Minh City | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Ho-Chi-Minh-City-Vietnam/Sr-Operations-Data-Analytics-Intern_R-01366619) | 9d |
+| **Stripe** | Software Engineer - Intern | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) | 9d |
+| **Rakuten Kobo** | Software Developer Intern - Dublin | Dublin | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/kobo/job/Dublin-Ireland/Software-Developer-Intern--Dublin-_1037090-1) | 9d |
+| **Micron Technology** | Intern - STPG PE Firmware | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318) | 9d |
+| **Intel** | DevOps and Software Engineering Intern | Kuala Lumpur | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) | 9d |
+| **Intel** | Intern System Software Development Engineer | Kuala Lumpur | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) | 9d |
+| **Google** | Software Engineering PhD Intern - Summer 2027 | Bengaluru | [Apply](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | 9d |
+| **AIA Group** | Intern - Data Engineer | Kuala Lumpur | [Apply](https://aia.wd3.myworkdayjobs.com/en-US/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern--Data-Engineer_JR-69839-1) | 9d |
+| **Stripe** | Software Engineer, Intern | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) | 10d |
+| **YouTrip** | Data Analytics Intern | Singapore | [Apply](https://apply.workable.com/youtrip/j/34787A0AE7/) | 12d |
+| **Stryker** | Information Systems & Data Analytics Co-Op Placements 2027 - Cork | Dublin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Cork-Ireland/Information-Systems---Data-Analytics-Co-Op-Placements-2027---Cork_R570852) | 12d |
+| **PwC** | Salesforce Developer - Intern - Napoli - ADV | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/en-US/nonpublic_postings/job/Naples/Salesforce-Developer---Intern---Napoli--ADV-_684823WD) | 12d |
+| **HP** | Data Analyst Intern | Madrid | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI3248-1) | 12d |
+| **HP** | Data Analyst Intern | Madrid | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI3248) | 12d |
+| **Workato** | Intern - Data Engineering | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8731177002#open-roles) | 13d |
+| **Trend Micro** | QA Automation & Cloud Deployment Intern - V1SPC | Taipei | [Apply](https://trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Taipei/QA-Automation---Cloud-Deployment-Intern--V1SPC-_R0010176) | 13d |
+| **Thales** | Software Development and Integration Engineer - Intern | Singapore | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158) | 13d |
+| **Thales** | DevOps Intern | Madrid | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Madrid/DevOps-Intern_R0336368-1) | 13d |
+| **Stryker** | Commercial Finance: Data Analytics & Reporting Co-Op | Dublin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Carrigtwohill-Ireland/Commercial-Finance--Data-Analytics---Reporting-Co-Op_R572114) | 13d |
+| **Sony** | Computer Vision Research Intern - m/f | Zurich | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/Schlieren/Computer-Vision-Research-Intern--m-f-_JR-119565-1) | 13d |
+| **Jump Trading** | Campus Python Software Engineer - Intern | Shanghai | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027923) | 13d |
+| **Jump Trading** | Campus C++ Software Engineer - Intern | Shanghai | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027860) | 13d |
+| **Hitachi** | Internship - Software Asset Management | Warsaw | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1) | 13d |
+| **Hewlett Packard Enterprise** | Cloud Developer Internship | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Cloud-Developer-Internship_1211001) | 13d |
+| **Hewlett Packard Enterprise** | Systems/Software Engineer - Internship | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Systems-Software-Engineer--Internship-_1214490) | 13d |
+| **Hewlett Packard Enterprise** | Internship - Cloud Dev Engineering | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Internship---Cloud-Dev-Engineering_1211017) | 13d |
+| **Google** | Software Engineering BS/MS Intern - 2027 | Bucharest | [Apply](https://www.google.com/about/careers/applications/jobs/results/83199557986329286) | 13d |
+| **Google** | Part-Time Software Engineering BS/MS Intern - 2027 | Tel Aviv | [Apply](https://www.google.com/about/careers/applications/jobs/results/103632882076918470) | 13d |
+| **Google** | Software Engineering - Site Reliability Engineering BS/MS Intern - 2027 | Zurich | [Apply](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) | 13d |
+| **Google** | Software Engineering - Site Reliability Engineering BS/MS Intern - 2027 | Warsaw | [Apply](https://www.google.com/about/careers/applications/jobs/results/121543376737575622) | 13d |
+| **Google** | Software Engineering - Site Reliability Engineering BS/MS Intern - 2027 | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/100028133205254854) | 13d |
+| **GoTo** | Data Analyst Intern | Jakarta | [Apply](https://jobs.lever.co/GoToGroup/f3566bb7-f2fd-4aef-bf2d-a1e0108d24e3) | 13d |
+| **Marsh McLennan** | Oliver Wyman - Data & Analytics Internship - Italy | Milan | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Milan---Broletto/Oliver-Wyman---Data---Analytics-Internship---Italy_R_364432) | 14d |
+| **Marsh McLennan** | Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam | Amsterdam | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Amsterdam---Strawinskylaan-381/Oliver-Wyman---Data---Analytics-Intern-Analyst----Amsterdam_R_364450-2) | 14d |
+| **Marsh McLennan** | Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam | Amsterdam | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Amsterdam---Strawinskylaan-381/Oliver-Wyman---Data---Analytics-Intern-Analyst----Amsterdam_R_364450-1) | 14d |
+| **Stryker** | Internship Artificial Intelligence & Surgical Navigation - 6 Months - Start Spring 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Internship-Artificial-Intelligence---Surgical-Navigation---6-Months---Start-Spring-2027_R572144) | 15d |
+| **Michelin** | IT Software Development & Digitalization Intern | Jakarta | [Apply](https://michelinhr.wd3.myworkdayjobs.com/en-US/michelin/job/Bekasi-Regency-West-Java/Automation-Engineer-Intern--Digitalization-_R-2026027254) | 15d |
+| **Marshall Wace** | Human Capital Placement Year | London | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772729002) | 15d |
+| **DRW** | IT Intern | Singapore | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8173677) | 15d |
+| **Bracco** | Data Analyst Intern | Milan | [Apply](https://bracco.wd103.myworkdayjobs.com/en-US/braccocareers/job/ITA---Milano---Via-Egidio-Folli/Data-Analyst-Intern_JR100349) | 15d |
+| **AIA Group** | Intern - Data Engineer | Kuala Lumpur | [Apply](https://aia.wd3.myworkdayjobs.com/en-US/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern--Data-Engineer_JR-69709-1) | 15d |
+| **Universidad IEU S.C.** | Business Intelligence & Data Analytics Intern / Headquarters | Milan | [Apply](https://galileo.wd3.myworkdayjobs.com/en-US/galileo_career_site/job/Milano/Business-Intelligence---Data-Analytics-Intern---Headquarters_R-29632) | 16d |
+| **Stryker** | Internship Software Test Engineering & Medical Technology - 6 Months - Start Spring 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Internship-Software-Test-Engineering---Medical-Technology---6-Months---Start-Spring-2027_R572140) | 16d |
+| **Stripe** | Software Engineer - Intern | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130867) | 16d |
+| **Stripe** | Software Engineer - Intern | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) | 16d |
+| **Marvell** | Optical Module Software/Firmware Intern | Shanghai | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216) | 16d |
+| **Stryker** | Internship Cloud Applications & Software Engineering - 6 months - Start Spring 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Internship-Cloud-Applications---Software-Engineering---6-months---Start-Spring-2027_R572269) | 17d |
+| **Stryker** | Master’s Internship Research & Development - Sports Medicine Software Engineering - 6 Months - Start April 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Master-s-Internship-Research---Development---Sports-Medicine-Software-Engineering---6-Months---Start-April-2027_R572180) | 17d |
+| **Stripe** | Operations Associate, Apprenticeship | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8131339) | 17d |
+| **Stripe** | Software Engineer, Intern | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130867) | 17d |
+| **Stripe** | Software Engineer, Intern | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) | 17d |
+| **PIMCO** | 2027 Summer Intern - Technology Analyst - Software Engineering - EMEA | London | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) | 17d |
+| **NVIDIA** | Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652) | 17d |
+| **NVIDIA** | Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648) | 17d |
+| **NVIDIA** | System Software Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500) | 17d |
+| **Micron Technology** | Intern - Front-End Materials Procurement Operations | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/Intern---Front-End-Materials-Procurement-Operations_JR108593) | 17d |
+| **Cadence** | EDA PV Intern for Digital Backend Flow | Shanghai | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SHANGHAI/EDA-PV-Intern-for-Digital-Backend-Flow_R56100) | 17d |
+| **Cadence** | EDA PV Intern for Digital Backend Flow | Shanghai | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SHANGHAI/EDA-PV-Intern-for-Digital-Backend-Flow_R56101) | 17d |
+| **TikTok** | Data Analyst Intern - Measurement - CALM - 2027 Start | Singapore | [Apply](https://lifeattiktok.com/search/7677519435083467061) | 18d |
+| **Thermo Fisher Scientific** | Intern Software Scientist - X-ray Spectroscopy | Amsterdam | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Eindhoven-Netherlands/Intern-Software-Scientist---X-ray-Spectroscopy_R-01366276) | 18d |
+| **NVIDIA** | Android Software Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408) | 18d |
+| **ASML** | Computational Physics - Artificial Intelligence internship: EUV Computational Physics & Optics | Amsterdam | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/AI-and-Computational-Physics-for-EUV-Optics-Diagnostics_J-00350714) | 18d |
+| **WATI.io** | Software Development Engineer Intern | Shenzhen | [Apply](https://apply.workable.com/wati-dot-i-o/j/8653E181C2/) | 20d |
+| **Trend Micro** | GRID DEVOPS INTERN | Manila | [Apply](https://trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Manila/GRID-DEVOPS-INTERN_R0010148) | 20d |
+| **Swift** | Site Reliability Engineering - SRE Intern | Kuala Lumpur | [Apply](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467) | 20d |
+| **Sonio** | Clinical Data Analyst intern | Paris | [Apply](https://jobs.ashbyhq.com/sonio/c2a4c162-9e39-4fc7-9de9-49e03536a121) | 20d |
+| **Razer** | Software Testing Intern | Shenzhen | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Shenzhen/Software-Testing-Intern_JR2026007806) | 20d |
+| **NVIDIA** | Developer Technology Engineering Intern - 2027 | Beijing | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122) | 20d |
+| **NVIDIA** | Diagnostic Network Software Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Diagnostic-Network-Software-Engineer--RDSS-Intern-_JR2024300) | 20d |
+| **Leidos** | Intern Software Developer | Melbourne | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Melbourne-Victoria-Australia/Intern-Software-Developer_R-00190834) | 20d |
+| **Brunswick** | Software Engineering Intern | Amsterdam | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Amsterdam-Netherlands/Software-Engineering-Intern_JR-051328) | 20d |
+| **AppLovin** | Backend Engineering Intern - 2027 Summer Internship | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4708449006?gh_jid=4708449006) | 20d |
+| **MUFG** | Operations Project and Data Analytics Intern | Singapore | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-earlycareers/job/Singapore-Office-Marina-One/Operations-Project-and-Data-Analytics-Intern_10079027-WD) | 21d |
+| **Hitachi** | Internship - Full-stack Software Engineer | Warsaw | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Full-stack-Software-Engineer_R0142565-1) | 21d |
+| **Virtu Financial** | 2027 Summer Internship - Client Support | London | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8746197002) | 22d |
+| **Virtu Financial** | 2027 Summer Internship - Technical | London | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8745933002) | 22d |
+| **Robotics and AI Institute** | Internship - Software Engineering | Zurich | [Apply](https://jobs.lever.co/rai/46c744a8-2817-4453-8b3b-20b6d0ea1ed9) | 22d |
+| **MSD** | Intern - D&L Data Analyst | Singapore | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--D-L--Data-Analyst_R403554) | 22d |
+| **ShopBack** | Data Analyst - Internship - H1 2027 | Singapore | [Apply](https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1) | 23d |
+| **CloudSEK** | DevOps Intern | Bengaluru | [Apply](https://job-boards.greenhouse.io/cloudsek/jobs/6149788004) | 23d |
+| **NVIDIA** | Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1) | 24d |
+| **ShopBack** | Software Engineer Intern - QA | Taipei | [Apply](https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116) | 26d |
+| **ShopBack** | Site Reliability Engineer Intern | Singapore | [Apply](https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c) | 27d |
+| **NVIDIA** | Enterprise Software Test Development Engineer - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913) | 27d |
+| **NVIDIA** | Test Development Software Engineering Intern - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632) | 27d |
+| **NVIDIA** | Test Development Software Engineering Intern - Aerial - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852) | 27d |
+| **NVIDIA** | Software Engineering Intern - CUDA Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645) | 27d |
+| **NVIDIA** | Software QA Developer Intern - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654) | 27d |
+| **NVIDIA** | Software QA Intern - Spark Rapids - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655) | 27d |
+| **Google** | Software Engineering Intern - PhD - Summer 2027 | Taipei | [Apply](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) | 27d |
+| **TikTok** | Backend Engineer Intern - TikTok Shop by Tokopedia - 2027 Start | Jakarta | [Apply](https://lifeattiktok.com/search/7675226279146375477) | 28d |
+| **TikTok** | Frontend Engineer Intern - TikTok Shop by Tokopedia - 2027 Start | Jakarta | [Apply](https://lifeattiktok.com/search/7675224627606784309) | 28d |
+| **TikTok** | Data Analyst Intern - TikTok Shop - 2027 Start | Singapore | [Apply](https://lifeattiktok.com/search/7674161938776656133) | 28d |
+| **Swift** | Software/Systems Engineer - Intern | Kuala Lumpur | [Apply](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Kuala-Lumpur-Malaysia/Software-Systems-Engineer---Intern_2026-16387) | 28d |
+| **Boeing** | Intern - Software Engineering | Madrid | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1) | 28d |
+| **Boeing** | Intern - Software Engineering | Madrid | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576) | 28d |
+| **Stripe** | Software Engineer - Intern - Summer or Winter | Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=8097801) | 29d |
+| **NVIDIA** | System Software Engineer - GPU and SOC - 2027 RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628) | 29d |
+| **Jabil** | Intern - Software Development Services | Kuala Lumpur | [Apply](https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Penang/Intern---Software-Development-Services_J2461809) | 29d |
+| **Google** | Software Engineering PhD Intern - 2027 | Zurich | [Apply](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | 29d |
+| **ASML** | Software Testing Intern | Shenzhen | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Shenzhen-China/Software-Testing-Intern_J-00340135-2) | 29d |
+| **TikTok** | Data Analyst Intern - TikTok-LIVE - 2027 Start | London | [Apply](https://lifeattiktok.com/search/7674944387893791029) | 1mo |
+| **Stripe** | Software Engineer, Intern (Summer or Winter) | Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=8097801) | 1mo |
+| **Optiver** | Software Engineer Internship - 2027 Start | Amsterdam | [Apply](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) | 1mo |
+| **Optiver** | Software Engineer Internship - 2027 Start | Amsterdam | [Apply](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) | 1mo |
+| **Mercedes-Benz Tech Innovation** | Intern Software Development AR - d/m/f/x | Berlin | [Apply](https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Bblingen/Praktikant-Softwareentwicklung-AR--m-w-d-_R0006108) | 1mo |
+| **Google** | Software Engineering PhD Intern - 2027 | Warsaw | [Apply](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) | 1mo |
+| **Google** | Part-Time Software Engineering PhD Intern - 2027 | Tel Aviv | [Apply](https://www.google.com/about/careers/applications/jobs/results/74922616988541638) | 1mo |
+| **Google** | Software Engineering or SRE - PhD Intern - 2027 | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | 1mo |
 | **CHANEL** | Data Analyst Support Intern - January 2027 | Geneva, Zurich | [Apply](https://cc.wd3.myworkdayjobs.com/en-US/chanelcareers/job/Geneve/Data-Analyst-Support-Intern---January-2027_JOBREQ00115200-3) | 1mo |
 | **DRW** | Software Engineer Intern - Data Engineering | Singapore | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8127242) | 1mo |
 | **Airwallex** | Software Engineer Intern - Jan to Jun 2027 | Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441) | 1mo |
@@ -320,35 +339,37 @@ A community-maintained, auto-aggregated list of **student internships across EME
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
-| **DV Trading** | 2027 Quantitative Research Intern - DV Equities | Hong Kong | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733877005) | 🆕 |
-| **BlackRock** | 2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London | London | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465) | 1d |
-| **Engelhart** | Weather Quantitative Research Internship Programme | Paris | [Apply](https://job-boards.greenhouse.io/engelhart/jobs/8191899) | 5d |
-| **Fasanara** | Quant Trading Intern | London | [Apply](https://apply.workable.com/fasanara/j/FC82BCC5C5/) | 6d |
-| **Schonfeld** | 2027 DMFI Quant Research Intern | London | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) | 7d |
-| **Barclays** | Quantitative Analytics Associate Off Cycle Internship Programme 2027 Paris | Paris | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726) | 8d |
-| **Man Group** | Quant Researcher Internship | London | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101) | 11d |
-| **Euronext** | Quant Intern | Paris | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/euronext_career_page/job/Paris/Quant-Intern_R28576) | 11d |
-| **Euronext** | Quant Intern | Paris | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/euronext_career_page/job/Paris/Quant-Intern_R28574) | 11d |
-| **Barclays** | Quantitative Finance Associate Off Cycle Internship Programme 2027 London | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) | 11d |
-| **Tower Research Capital** | Quantitative Researcher Intern - Bachelor's or Master's | Hong Kong | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8168750) | 14d |
-| **Tower Research Capital** | Quantitative Researcher Intern - PhD or Postdoc | Hong Kong | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8168634) | 14d |
-| **Tower Research Capital** | Quantitative Trader/Researcher Summer Internship 2027 - 2028 Graduates | London | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8037860) | 14d |
-| **PIMCO** | 2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst - MFE - London | London | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) | 14d |
-| **Marshall Wace** | Quant Research Intern - London - 2027 | London | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | 14d |
-| **Jump Trading** | Campus Quantitative Researcher - Off-Cycle - Winter/Spring 2027 Intern | Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027898) | 21d |
-| **Jump Trading** | Campus Quantitative Researcher - Intern | Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027900) | 22d |
-| **Jump Trading** | Campus Quantitative Trader - Intern | Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027922) | 22d |
-| **Susquehanna International Group** | Quantitative Strategy Developer Internship: Summer 2027 - Dublin | Dublin | [Apply](https://careers-sig.icims.com/jobs/11332/quantitative-strategy-developer-internship%3a-summer-2027-%28dublin%29/job) | 25d |
-| **Susquehanna International Group** | Quantitative Strategy Developer Internship: Summer 2027 - London | London | [Apply](https://careers-sig.icims.com/jobs/11333/quantitative-strategy-developer-internship%3a-summer-2027-%28london%29/job) | 25d |
-| **Scientech Research Capital** | Quantitative Researcher Intern-Daily | Shanghai | [Apply](https://jobs.ashbyhq.com/scientech-research/11c106c6-feed-4da8-a94a-c8d27d8832f7) | 26d |
-| **Tower Research Capital** | Quantitative Developer Intern | Singapore | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8138524) | 28d |
-| **Optiver** | Quantitative Research Internship - 2027 Start | Amsterdam | [Apply](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002) | 29d |
-| **Optiver** | Quantitative Trading Internship - 2027 Start | Amsterdam | [Apply](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) | 29d |
+| **Talos** | Software Engineer Intern - Trading | London | [Apply](https://jobs.ashbyhq.com/talos-trading/42cad756-c312-4142-a9b7-18ed76f61c5d) | 🆕 |
+| **Schonfeld** | 2027 DMFI Quant Developer Intern | London | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) | 🆕 |
+| **DV Trading** | 2027 Quantitative Research Intern - DV Equities | Hong Kong | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733877005) | 1d |
+| **BlackRock** | 2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London | London | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465) | 2d |
+| **Engelhart** | Weather Quantitative Research Internship Programme | Paris | [Apply](https://job-boards.greenhouse.io/engelhart/jobs/8191899) | 6d |
+| **Fasanara** | Quant Trading Intern | London | [Apply](https://apply.workable.com/fasanara/j/FC82BCC5C5/) | 7d |
+| **Schonfeld** | 2027 DMFI Quant Research Intern | London | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) | 8d |
+| **Barclays** | Quantitative Analytics Associate Off Cycle Internship Programme 2027 Paris | Paris | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726) | 9d |
+| **Man Group** | Quant Researcher Internship | London | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101) | 12d |
+| **Euronext** | Quant Intern | Paris | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/euronext_career_page/job/Paris/Quant-Intern_R28576) | 12d |
+| **Euronext** | Quant Intern | Paris | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/euronext_career_page/job/Paris/Quant-Intern_R28574) | 12d |
+| **Barclays** | Quantitative Finance Associate Off Cycle Internship Programme 2027 London | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) | 12d |
+| **Tower Research Capital** | Quantitative Researcher Intern - Bachelor's or Master's | Hong Kong | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8168750) | 15d |
+| **Tower Research Capital** | Quantitative Researcher Intern - PhD or Postdoc | Hong Kong | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8168634) | 15d |
+| **Tower Research Capital** | Quantitative Trader/Researcher Summer Internship 2027 - 2028 Graduates | London | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8037860) | 15d |
+| **PIMCO** | 2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst - MFE - London | London | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) | 15d |
+| **Marshall Wace** | Quant Research Intern - London - 2027 | London | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | 15d |
+| **Jump Trading** | Campus Quantitative Researcher - Off-Cycle - Winter/Spring 2027 Intern | Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027898) | 22d |
+| **Jump Trading** | Campus Quantitative Researcher - Intern | Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027900) | 23d |
+| **Jump Trading** | Campus Quantitative Trader - Intern | Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027922) | 23d |
+| **Susquehanna International Group** | Quantitative Strategy Developer Internship: Summer 2027 - Dublin | Dublin | [Apply](https://careers-sig.icims.com/jobs/11332/quantitative-strategy-developer-internship%3a-summer-2027-%28dublin%29/job) | 26d |
+| **Susquehanna International Group** | Quantitative Strategy Developer Internship: Summer 2027 - London | London | [Apply](https://careers-sig.icims.com/jobs/11333/quantitative-strategy-developer-internship%3a-summer-2027-%28london%29/job) | 26d |
+| **Scientech Research Capital** | Quantitative Researcher Intern-Daily | Shanghai | [Apply](https://jobs.ashbyhq.com/scientech-research/11c106c6-feed-4da8-a94a-c8d27d8832f7) | 27d |
+| **Tower Research Capital** | Quantitative Developer Intern | Singapore | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8138524) | 29d |
+| **Optiver** | Quantitative Research Internship - 2027 Start | Amsterdam | [Apply](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002) | 1mo |
+| **Optiver** | Quantitative Trading Internship - 2027 Start | Amsterdam | [Apply](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) | 1mo |
 | **Optiver** | Quantitative Research Internship - Bachelor or Master - Summer 2027 - Shanghai | Shanghai | [Apply](https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002) | 1mo |
 | **Tower Research Capital** | Quantitative Research Internship - 6 Months - Central Execution Research | London | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8113986) | 1mo |
 | **Optiver** | Quantitative Trading Internship - Summer 2027 - Shanghai | Shanghai | [Apply](https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002) | 1mo |
 | **Virtu Financial** | 2027 Internship - Quantitative Researcher (Master or PhD) | Dublin | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8631180002) | 1mo |
-| **Virtu Financial** | 2027 Internship - Quantitative Strategist | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/7617953002) | 1mo |
+| **Virtu Financial** | 2027 Internship - Quantitative Researcher (PhD) | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/7617953002) | 1mo |
 | **Virtu Financial** | 2027 Internship - Quantitative Trading | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/5208637002) | 1mo |
 | **Virtu Financial** | 2027 Internship - Quantitative Trading | Dublin | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8547254002) | 1mo |
 | **Squarepoint Capital** | Intern Quant Researcher | Hong Kong, London, Paris, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) | 1mo |
@@ -402,91 +423,97 @@ A community-maintained, auto-aggregated list of **student internships across EME
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
-| **Marvell** | Generative AI Forward Deployed Engineer Intern-Enterprise Applications | Bengaluru | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227) | 🆕 |
-| **Ekimetrics** | 2027 Internship - 6 Months - Data Science & Marketing Effectiveness - London | London | [Apply](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548) | 🆕 |
-| **DiliTrust** | Legal Engineer - AI Quality - Internship | Paris | [Apply](https://jobs.lever.co/dilitrust/4b750be0-0edc-4940-b3d7-194a0daf9c8b) | 🆕 |
-| **Micron Technology** | Intern - NAND Device Engineering AI | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107) | 1d |
-| **Essity** | Data Scientist Internship | Barcelona, Madrid | [Apply](https://essity.wd3.myworkdayjobs.com/en-US/job_opportunities/job/Barcelona--Spain/Data-Scientist-Internship_Essity263979) | 1d |
-| **AppLovin** | Machine Learning Engineering Intern - 2027 Summer Internship | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) | 1d |
-| **Ryan** | AI-Enabled Business Solutions Intern | London | [Apply](https://ryan.wd1.myworkdayjobs.com/en-US/students-graduates/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-1) | 2d |
-| **Ryan** | AI-Enabled Business Solutions Intern | London | [Apply](https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-2) | 2d |
-| **Red Hat** | Open Source AI Intern - Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Open-Source-AI-Intern--Waterford-office--Ireland-_R-059208) | 2d |
-| **Red Hat** | Openshift AI Sustaining Engineering Intern- Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Openshift-AI-Sustaining-Engineering-Intern-Waterford-office--Ireland-_R-059201) | 2d |
-| **Micron Technology** | INTERNSHIP - NAND Cell Characterization & AI Tools | Milan | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212) | 2d |
-| **Light** | AI Engineering Intern | London | [Apply](https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9) | 2d |
-| **Hitachi** | AI-Driven Cloud/ DevOps Intern | Ho Chi Minh City | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Cloud--DevOps-Intern_R0144780) | 2d |
-| **Hitachi** | R&D Intern on Material - Power Electronics - Power System and Data Science | Beijing | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Beijing-China/R-D-Intern-on-Material--Power-Electronics--Power-System-and-Data-Science_R0144731) | 2d |
-| **Arendt** | Intern - AI Transformation - January 2027 | Luxembourg | [Apply](https://arendt.wd3.myworkdayjobs.com/en-US/jobopportunities/job/Luxembourg/Intern---AI-Transformation---January-2027_JR000669) | 2d |
-| **Bybit** | Smart Contract Security Audit Intern - AI Audit | Hong Kong | [Apply](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | 4d |
-| **Bybit** | AI Development Engineer Intern | Hong Kong | [Apply](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | 4d |
-| **Bosch** | Extracurricular Internship: AI & Automation Development - f/m/div. | Lisbon | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148960754-extracurricular-internship-ai-automation-development-f-m-div-?oga=true) | 4d |
-| **TikTok** | AI Data Project Intern - Eco & Social Creation - 2027 Start | Singapore | [Apply](https://lifeattiktok.com/search/7682638844458240309) | 5d |
-| **Red Bull** | Internship Data Science | Vienna | [Apply](https://jobs.smartrecruiters.com/RedBull/744000148756269-internship-data-science?oga=true) | 5d |
-| **Interpath** | Internship - Data & AI - Consulting - from February 2027 | Munich, Berlin | [Apply](https://apply.workable.com/interpath-advisory/j/F284D44AD2/) | 5d |
-| **EPOS** | AI Product Intern | Kuala Lumpur | [Apply](https://apply.workable.com/epos/j/A2065A3F93/) | 5d |
-| **Celonis** | Intern Technology Consultant - Data & AI | Munich, Berlin | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7977924003?gh_jid=7977924003) | 5d |
-| **Celonis** | Intern Deployment Engineer - Data & AI | Munich, Berlin | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7990983003?gh_jid=7990983003) | 5d |
-| **Amadeus** | Internship - Data scientist | Paris | [Apply](https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---Data-scientist_R37333) | 5d |
-| **ZEISS** | Internship - Physical AI for Surgical Robotics - f/m/x | Berlin | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Karlsruhe/Internship---Physical-AI-for-Surgical-Robotics--f-m-x-_JR_1052834) | 6d |
-| **Institute of Foundation Models** | AI Engineer Internship - LLM Data | Abu Dhabi | [Apply](https://jobs.lever.co/ifm-us/08930bb0-7ea7-4ace-a453-2e4cff4a11dc) | 6d |
-| **ZEISS** | Internship - AI for Neural Signal Processing in Healthcare Innovation - f/m/x | Berlin | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Karlsruhe/Internship---AI-for-Neural-Signal-Processing-in-Healthcare-Innovation--f-m-x-_JR_1052727-1) | 7d |
-| **Snowflake** | Applied AI Intern - Warsaw | Warsaw | [Apply](https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681) | 7d |
-| **NXP Semiconductors** | Edge AI Field Application Engineer Intern | Shanghai | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Edge-AI-Field-Application-Engineer-Intern_R-10066533) | 7d |
-| **NXP Semiconductors** | Edge AI Field Application Engineer Intern | Shanghai | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Edge-AI-Field-Application-Engineer-Intern_R-10066551) | 7d |
-| **Marvell** | AI Infrastructure Engineer Intern | Tel Aviv | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) | 7d |
-| **Atlys** | AI Intern | New Delhi | [Apply](https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223) | 7d |
-| **Almirall** | Health Data Science Intern - Digital Health & Real World Evidence | Madrid | [Apply](https://almirall.wd3.myworkdayjobs.com/en-US/external/job/SANT-FELIU-DE-LLOBREGAT/Digital-Health-and-Real-World-Evidence-Trainee_001197) | 7d |
-| **bp** | Summer Internship-Technology-Data & AI- Malaysia | Kuala Lumpur | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpcareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2) | 8d |
-| **Susquehanna International Group** | Machine Learning Internship - PhD: 2027 | Hong Kong | [Apply](https://careers-sig.icims.com/jobs/11381/machine-learning-internship---phd%3a-2027/job) | 8d |
-| **Micron Technology** | Intern - NAND Product Engineering - Probe AI/ML | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821) | 8d |
-| **Hewlett Packard Enterprise** | AI and Machine Learning Intern | Singapore | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583) | 8d |
-| **Cantina** | Machine Learning Intern | Singapore | [Apply](https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01) | 8d |
-| **Applied Materials** | College Intern - Process & hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | Singapore | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-emerging-films-in-micro-OLED-and-Integrated-voltage-regulator-for-AI-chips_R2626937) | 8d |
-| **NVIDIA** | AI Developer Technology Engineering Intern - 2027 | Beijing | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818) | 11d |
-| **NVIDIA** | Compute System Arch AI Infra Intern - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889) | 11d |
-| **Hewlett Packard Enterprise** | Hybrid Cloud Innovation AI Internship | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Hybrid-Cloud-Innovation-AI-Internship_1210999) | 11d |
-| **Deutsche Bank** | Internship Innovation and AI - Cards Issuing and Acquiring - Milano - f/m/x | Milan | [Apply](https://db.wd3.myworkdayjobs.com/en-US/dbwebsite/job/Milano-Bicocca-Calendario-3/Internship-Innovation-and-AI---Cards-Issuing-and-Acquiring---Milano--f-m-x-_R0449341) | 11d |
-| **Skydio** | PhD Autonomy Engineer Intern - Computer Vision / Deep Learning Summer 2027 | Zurich | [Apply](https://jobs.ashbyhq.com/skydio/611a7f87-bc4c-468f-976f-ecd33b731fa3) | 12d |
-| **Hewlett Packard Enterprise** | AI Innovation Engineering Internship | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/AI-Innovation-Engineering-Internship_1211033) | 12d |
-| **Hewlett Packard Enterprise** | Networking Internship - AI Engineering | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Networking-Internship---AI-Engineering_1211025) | 12d |
-| **Google** | Data Science PhD Intern - 2027 | Warsaw | [Apply](https://www.google.com/about/careers/applications/jobs/results/74389446190867142) | 12d |
-| **GlobalFoundries** | Machine Learning & Generative AI Intern - Jan-Jun 2027 | Singapore | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518) | 12d |
-| **Perplexity** | Internship - Machine Learning Research Engineer | Berlin | [Apply](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) | 13d |
-| **TWG Global AI** | AI Data Science Intern - UK | London | [Apply](https://apply.workable.com/twgai/j/1206BF981C/) | 14d |
-| **RealPage** | Intern - Technical Internship - Software - Analytics & AI for Property Management Operations | Manila | [Apply](https://careers-international-realpagepms.icims.com/jobs/14422/intern-%28technical-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job) | 14d |
-| **NVIDIA** | Developer Technology Engineering Intern - HPC and AI - 2027 | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509) | 14d |
-| **Houlihan Lokey** | Data Science Intern | Gurugram | [Apply](https://hl.wd1.myworkdayjobs.com/en-US/lateral/job/Gurugram-India/Data-Science-Intern_R3540) | 14d |
-| **RIVR** | AI Intern - Vision-Language-Action - VLA & Data | Zurich | [Apply](https://jobs.lever.co/rivr/661e87dc-6ce0-4600-b74f-96b011109c28) | 15d |
-| **MUFG** | AI Intern | Singapore | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-earlycareers/job/Singapore-Office-OCC/AI-Intern_10078998-WD) | 15d |
-| **Stryker** | Internship Software for AI Applications in Robotic-Assisted Surgery - 6 Months - Start Spring 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Internship-Software-for-AI-Applications-in-Robotic-Assisted-Surgery---6-Months---Start-Spring-2027_R572200-1) | 16d |
-| **RealPage** | Intern - Professional Internship - Software - Analytics & AI for Property Management Operations | Manila | [Apply](https://careers-international-realpagepms.icims.com/jobs/14421/intern-%28professional-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job) | 17d |
-| **Jump Trading** | Campus AI/ML Researcher - Intern | Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027938) | 17d |
-| **Razer** | Applied AI Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Applied-AI-Intern_JR2026007785) | 19d |
-| **Razer** | Applied AI Intern - Voice | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) | 19d |
-| **NVIDIA** | Developer Technology Engineering Intern - AI - 2027 | Beijing | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258) | 20d |
-| **NVIDIA** | AI Developer Technology Intern - Robotics - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1) | 20d |
-| **Garda Capital Partners** | Software Engineer Intern - AI Internal Tools | Geneva, Zurich | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6146408004) | 21d |
-| **Cosuno** | Founder's Associate Internship - AI-Native | Berlin | [Apply](https://jobs.ashbyhq.com/cosuno/8851df84-3da9-4adc-92c5-7b7dbad01a86) | 21d |
-| **Qonto** | Legal Intern - Product & AI | Paris | [Apply](https://jobs.lever.co/qonto/354fa50e-2741-4936-82f5-0d1ce5fb8be3) | 22d |
-| **Philips** | Product Innovation & AI-Powered Video Creation Internship - Philips Avent Experience Innovation | Amsterdam | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187) | 22d |
-| **NVIDIA** | Deep Learning Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658) | 22d |
-| **NVIDIA** | AI Developer Technology Engineer Intern - AI - 2027 | Beijing | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002) | 22d |
-| **Trend Micro** | Applied AI Engineer Internship | Dublin | [Apply](https://trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Cork/Applied-AI-Engineer-Internship_R0010091) | 23d |
-| **NVIDIA** | Deep Learning Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641) | 25d |
-| **NVIDIA** | Deep Learning Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639) | 25d |
-| **NVIDIA** | CUDA Full Stack & AI Test Dev Intern - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1) | 25d |
-| **Tower Research Capital** | Intern - AI/ML | Gurugram | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) | 26d |
-| **NVIDIA** | Deep Learning Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656) | 26d |
-| **NVIDIA** | Artificial Intelligence Research Intern - Deep Learning | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646) | 28d |
-| **Jane Street** | Machine Learning Researcher Summer Internship | London | [Apply](https://www.janestreet.com/join-jane-street/position/8594416002) | 28d |
-| **Instawork** | Hardware Intern — Robotics & AI | Bengaluru | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4706444006) | 28d |
-| **Huntsman** | Business Intelligence & AI Analytics Intern | Kuala Lumpur | [Apply](https://huntsman.wd1.myworkdayjobs.com/en-US/huntsman/job/Malaysia---Kuala-Lumpur/Business-Intelligence---AI-Analytics-Intern_J-020202) | 28d |
-| **Clario** | Intern - AI Prototyping | Brussels | [Apply](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Leuven-Belgium/Intern--AI-Prototyping_R18061) | 28d |
-| **Google** | Research Scientist PhD Intern - 2027 | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | 29d |
-| **Google** | Data Science PhD Intern - 2027 | Zurich | [Apply](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) | 29d |
-| **Google** | Data Science PhD Intern - 2027 | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | 29d |
-| **Google** | Part-Time Research Scientist PhD Intern - 2027 | Tel Aviv | [Apply](https://www.google.com/about/careers/applications/jobs/results/88486192428786374) | 29d |
-| **Google** | Research Scientist PhD Intern - 2027 | Zurich | [Apply](https://www.google.com/about/careers/applications/jobs/results/111285665542349510) | 29d |
+| **Vocca** | AI Deployment Strategist - 6 months internship - end of study | Paris | [Apply](https://jobs.ashbyhq.com/vocca/64a09b3c-3304-495a-9537-49343e62de98) | 🆕 |
+| **NVIDIA** | Silicon Software Engineer - System and AI - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538) | 🆕 |
+| **Marvell** | Solutions Research Intern — Physical AI | Hyderabad | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239) | 🆕 |
+| **Intel** | AI Compiler and Library Engineer Intern | Shanghai | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/PRC-Shanghai/AI-Compiler-and-Library-Engineer-Intern_JR0287303) | 🆕 |
+| **GE Aerospace** | Data Science Intern | Bengaluru | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1) | 🆕 |
+| **ABB** | Internship - AI & Data Analytics in Sales f/m/d - 80-100% | Zurich | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Baden-Aargau-Switzerland/Internship---AI---Data-Analytics-in-Sales-f-m-d--80-100--_JR00042362) | 🆕 |
+| **Marvell** | Generative AI Forward Deployed Engineer Intern-Enterprise Applications | Bengaluru | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227) | 1d |
+| **Ekimetrics** | 2027 Internship - 6 Months - Data Science & Marketing Effectiveness - London | London | [Apply](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548) | 1d |
+| **DiliTrust** | Legal Engineer - AI Quality - Internship | Paris | [Apply](https://jobs.lever.co/dilitrust/4b750be0-0edc-4940-b3d7-194a0daf9c8b) | 1d |
+| **Micron Technology** | Intern - NAND Device Engineering AI | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107) | 2d |
+| **Essity** | Data Scientist Internship | Barcelona, Madrid | [Apply](https://essity.wd3.myworkdayjobs.com/en-US/job_opportunities/job/Barcelona--Spain/Data-Scientist-Internship_Essity263979) | 2d |
+| **AppLovin** | Machine Learning Engineering Intern - 2027 Summer Internship | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) | 2d |
+| **Ryan** | AI-Enabled Business Solutions Intern | London | [Apply](https://ryan.wd1.myworkdayjobs.com/en-US/students-graduates/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-1) | 3d |
+| **Ryan** | AI-Enabled Business Solutions Intern | London | [Apply](https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-2) | 3d |
+| **Red Hat** | Open Source AI Intern - Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Open-Source-AI-Intern--Waterford-office--Ireland-_R-059208) | 3d |
+| **Red Hat** | Openshift AI Sustaining Engineering Intern- Waterford office - Ireland | Dublin | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Openshift-AI-Sustaining-Engineering-Intern-Waterford-office--Ireland-_R-059201) | 3d |
+| **Micron Technology** | INTERNSHIP - NAND Cell Characterization & AI Tools | Milan | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212) | 3d |
+| **Light** | AI Engineering Intern | London | [Apply](https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9) | 3d |
+| **Hitachi** | AI-Driven Cloud/ DevOps Intern | Ho Chi Minh City | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Cloud--DevOps-Intern_R0144780) | 3d |
+| **Hitachi** | R&D Intern on Material - Power Electronics - Power System and Data Science | Beijing | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Beijing-China/R-D-Intern-on-Material--Power-Electronics--Power-System-and-Data-Science_R0144731) | 3d |
+| **Arendt** | Intern - AI Transformation - January 2027 | Luxembourg | [Apply](https://arendt.wd3.myworkdayjobs.com/en-US/jobopportunities/job/Luxembourg/Intern---AI-Transformation---January-2027_JR000669) | 3d |
+| **Bybit** | Smart Contract Security Audit Intern - AI Audit | Hong Kong | [Apply](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | 5d |
+| **Bybit** | AI Development Engineer Intern | Hong Kong | [Apply](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | 5d |
+| **Bosch** | Extracurricular Internship: AI & Automation Development - f/m/div. | Lisbon | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148960754-extracurricular-internship-ai-automation-development-f-m-div-?oga=true) | 5d |
+| **TikTok** | AI Data Project Intern - Eco & Social Creation - 2027 Start | Singapore | [Apply](https://lifeattiktok.com/search/7682638844458240309) | 6d |
+| **Red Bull** | Internship Data Science | Vienna | [Apply](https://jobs.smartrecruiters.com/RedBull/744000148756269-internship-data-science?oga=true) | 6d |
+| **Interpath** | Internship - Data & AI - Consulting - from February 2027 | Munich, Berlin | [Apply](https://apply.workable.com/interpath-advisory/j/F284D44AD2/) | 6d |
+| **EPOS** | AI Product Intern | Kuala Lumpur | [Apply](https://apply.workable.com/epos/j/A2065A3F93/) | 6d |
+| **Celonis** | Intern Technology Consultant - Data & AI | Munich, Berlin | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7977924003?gh_jid=7977924003) | 6d |
+| **Celonis** | Intern Deployment Engineer - Data & AI | Munich, Berlin | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7990983003?gh_jid=7990983003) | 6d |
+| **Amadeus** | Internship - Data scientist | Paris | [Apply](https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---Data-scientist_R37333) | 6d |
+| **ZEISS** | Internship - Physical AI for Surgical Robotics - f/m/x | Berlin | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Karlsruhe/Internship---Physical-AI-for-Surgical-Robotics--f-m-x-_JR_1052834) | 7d |
+| **Institute of Foundation Models** | AI Engineer Internship - LLM Data | Abu Dhabi | [Apply](https://jobs.lever.co/ifm-us/08930bb0-7ea7-4ace-a453-2e4cff4a11dc) | 7d |
+| **ZEISS** | Internship - AI for Neural Signal Processing in Healthcare Innovation - f/m/x | Berlin | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Karlsruhe/Internship---AI-for-Neural-Signal-Processing-in-Healthcare-Innovation--f-m-x-_JR_1052727-1) | 8d |
+| **Snowflake** | Applied AI Intern - Warsaw | Warsaw | [Apply](https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681) | 8d |
+| **NXP Semiconductors** | Edge AI Field Application Engineer Intern | Shanghai | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Edge-AI-Field-Application-Engineer-Intern_R-10066533) | 8d |
+| **NXP Semiconductors** | Edge AI Field Application Engineer Intern | Shanghai | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Edge-AI-Field-Application-Engineer-Intern_R-10066551) | 8d |
+| **Marvell** | AI Infrastructure Engineer Intern | Tel Aviv | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) | 8d |
+| **Atlys** | AI Intern | New Delhi | [Apply](https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223) | 8d |
+| **Almirall** | Health Data Science Intern - Digital Health & Real World Evidence | Madrid | [Apply](https://almirall.wd3.myworkdayjobs.com/en-US/external/job/SANT-FELIU-DE-LLOBREGAT/Digital-Health-and-Real-World-Evidence-Trainee_001197) | 8d |
+| **bp** | Summer Internship-Technology-Data & AI- Malaysia | Kuala Lumpur | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpcareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2) | 9d |
+| **Susquehanna International Group** | Machine Learning Internship - PhD: 2027 | Hong Kong | [Apply](https://careers-sig.icims.com/jobs/11381/machine-learning-internship---phd%3a-2027/job) | 9d |
+| **Micron Technology** | Intern - NAND Product Engineering - Probe AI/ML | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821) | 9d |
+| **Hewlett Packard Enterprise** | AI and Machine Learning Intern | Singapore | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583) | 9d |
+| **Cantina** | Machine Learning Intern | Singapore | [Apply](https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01) | 9d |
+| **Applied Materials** | College Intern - Process & hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | Singapore | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-emerging-films-in-micro-OLED-and-Integrated-voltage-regulator-for-AI-chips_R2626937) | 9d |
+| **NVIDIA** | AI Developer Technology Engineering Intern - 2027 | Beijing | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818) | 12d |
+| **NVIDIA** | Compute System Arch AI Infra Intern - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889) | 12d |
+| **Hewlett Packard Enterprise** | Hybrid Cloud Innovation AI Internship | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Hybrid-Cloud-Innovation-AI-Internship_1210999) | 12d |
+| **Deutsche Bank** | Internship Innovation and AI - Cards Issuing and Acquiring - Milano - f/m/x | Milan | [Apply](https://db.wd3.myworkdayjobs.com/en-US/dbwebsite/job/Milano-Bicocca-Calendario-3/Internship-Innovation-and-AI---Cards-Issuing-and-Acquiring---Milano--f-m-x-_R0449341) | 12d |
+| **Skydio** | PhD Autonomy Engineer Intern - Computer Vision / Deep Learning Summer 2027 | Zurich | [Apply](https://jobs.ashbyhq.com/skydio/611a7f87-bc4c-468f-976f-ecd33b731fa3) | 13d |
+| **Hewlett Packard Enterprise** | AI Innovation Engineering Internship | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/AI-Innovation-Engineering-Internship_1211033) | 13d |
+| **Hewlett Packard Enterprise** | Networking Internship - AI Engineering | Dublin | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Galway-Galway-Ireland/Networking-Internship---AI-Engineering_1211025) | 13d |
+| **Google** | Data Science PhD Intern - 2027 | Warsaw | [Apply](https://www.google.com/about/careers/applications/jobs/results/74389446190867142) | 13d |
+| **GlobalFoundries** | Machine Learning & Generative AI Intern - Jan-Jun 2027 | Singapore | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518) | 13d |
+| **Perplexity** | Internship - Machine Learning Research Engineer | Berlin | [Apply](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) | 14d |
+| **TWG Global AI** | AI Data Science Intern - UK | London | [Apply](https://apply.workable.com/twgai/j/1206BF981C/) | 15d |
+| **RealPage** | Intern - Technical Internship - Software - Analytics & AI for Property Management Operations | Manila | [Apply](https://careers-international-realpagepms.icims.com/jobs/14422/intern-%28technical-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job) | 15d |
+| **NVIDIA** | Developer Technology Engineering Intern - HPC and AI - 2027 | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509) | 15d |
+| **Houlihan Lokey** | Data Science Intern | Gurugram | [Apply](https://hl.wd1.myworkdayjobs.com/en-US/lateral/job/Gurugram-India/Data-Science-Intern_R3540) | 15d |
+| **RIVR** | AI Intern - Vision-Language-Action - VLA & Data | Zurich | [Apply](https://jobs.lever.co/rivr/661e87dc-6ce0-4600-b74f-96b011109c28) | 16d |
+| **MUFG** | AI Intern | Singapore | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-earlycareers/job/Singapore-Office-OCC/AI-Intern_10078998-WD) | 16d |
+| **Stryker** | Internship Software for AI Applications in Robotic-Assisted Surgery - 6 Months - Start Spring 2027 | Berlin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Freiburg-Germany/Internship-Software-for-AI-Applications-in-Robotic-Assisted-Surgery---6-Months---Start-Spring-2027_R572200-1) | 17d |
+| **RealPage** | Intern - Professional Internship - Software - Analytics & AI for Property Management Operations | Manila | [Apply](https://careers-international-realpagepms.icims.com/jobs/14421/intern-%28professional-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job) | 18d |
+| **Jump Trading** | Campus AI/ML Researcher - Intern | Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027938) | 18d |
+| **Razer** | Applied AI Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Applied-AI-Intern_JR2026007785) | 20d |
+| **Razer** | Applied AI Intern - Voice | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) | 20d |
+| **NVIDIA** | Developer Technology Engineering Intern - AI - 2027 | Beijing | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258) | 21d |
+| **NVIDIA** | AI Developer Technology Intern - Robotics - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1) | 21d |
+| **Garda Capital Partners** | Software Engineer Intern - AI Internal Tools | Geneva, Zurich | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6146408004) | 22d |
+| **Cosuno** | Founder's Associate Internship - AI-Native | Berlin | [Apply](https://jobs.ashbyhq.com/cosuno/8851df84-3da9-4adc-92c5-7b7dbad01a86) | 22d |
+| **Qonto** | Legal Intern - Product & AI | Paris | [Apply](https://jobs.lever.co/qonto/354fa50e-2741-4936-82f5-0d1ce5fb8be3) | 23d |
+| **Philips** | Product Innovation & AI-Powered Video Creation Internship - Philips Avent Experience Innovation | Amsterdam | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187) | 23d |
+| **NVIDIA** | Deep Learning Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658) | 23d |
+| **NVIDIA** | AI Developer Technology Engineer Intern - AI - 2027 | Beijing | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002) | 23d |
+| **Trend Micro** | Applied AI Engineer Internship | Dublin | [Apply](https://trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Cork/Applied-AI-Engineer-Internship_R0010091) | 24d |
+| **NVIDIA** | Deep Learning Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641) | 26d |
+| **NVIDIA** | Deep Learning Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639) | 26d |
+| **NVIDIA** | CUDA Full Stack & AI Test Dev Intern - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1) | 26d |
+| **Tower Research Capital** | Intern - AI/ML | Gurugram | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) | 27d |
+| **NVIDIA** | Deep Learning Software Engineering Intern - Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656) | 27d |
+| **NVIDIA** | Artificial Intelligence Research Intern - Deep Learning | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646) | 29d |
+| **Jane Street** | Machine Learning Researcher Summer Internship | London | [Apply](https://www.janestreet.com/join-jane-street/position/8594416002) | 29d |
+| **Instawork** | Hardware Intern — Robotics & AI | Bengaluru | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4706444006) | 29d |
+| **Huntsman** | Business Intelligence & AI Analytics Intern | Kuala Lumpur | [Apply](https://huntsman.wd1.myworkdayjobs.com/en-US/huntsman/job/Malaysia---Kuala-Lumpur/Business-Intelligence---AI-Analytics-Intern_J-020202) | 29d |
+| **Clario** | Intern - AI Prototyping | Brussels | [Apply](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Leuven-Belgium/Intern--AI-Prototyping_R18061) | 29d |
+| **Google** | Research Scientist PhD Intern - 2027 | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | 1mo |
+| **Google** | Data Science PhD Intern - 2027 | Zurich | [Apply](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) | 1mo |
+| **Google** | Data Science PhD Intern - 2027 | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | 1mo |
+| **Google** | Part-Time Research Scientist PhD Intern - 2027 | Tel Aviv | [Apply](https://www.google.com/about/careers/applications/jobs/results/88486192428786374) | 1mo |
+| **Google** | Research Scientist PhD Intern - 2027 | Zurich | [Apply](https://www.google.com/about/careers/applications/jobs/results/111285665542349510) | 1mo |
 | **TikTok** | AI Agent Engineer Intern - Search - 2027 Start | Singapore | [Apply](https://lifeattiktok.com/search/7665646013219342645) | 1mo |
 | **Optiver** | 2027 Shanghai Machine Learning Engineer Summer Internship | Shanghai | [Apply](https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002) | 1mo |
 | **KINEXON** | Internship Product Management & AI Automation | Munich, Berlin | [Apply](https://www.kinexon.com/jobs?gh_jid=4951324101) | 1mo |
@@ -554,7 +581,6 @@ A community-maintained, auto-aggregated list of **student internships across EME
 | **Helsing** | AI Research Intern - PhD - 3D Computer Vision | Munich, Berlin | [Apply](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) | 1mo |
 | **G-Research** | Data Science Internship | London | [Apply](https://gresearch.wd103.myworkdayjobs.com/en-US/g-research/job/London-UK/Data-Science-Internship_R3679) | 1mo |
 | **G-Research** | Machine Learning Research Internship | London | [Apply](https://gresearch.wd103.myworkdayjobs.com/en-US/g-research/job/London-UK/Machine-Learning-Research-Internship_R3682) | 1mo |
-| **Finmid** | Data Science Intern - FT Potential | Berlin | [Apply](https://jobs.ashbyhq.com/finmid.com/279b1d76-e50d-4fe7-991b-2dc904f3c141) | 1mo |
 | **Euronext** | AI Engineering Intern | Paris | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/euronext_career_page/job/Paris/AI-Engineering-Intern_R28219) | 1mo |
 | **Epic Games** | Machine Learning Intern | London | [Apply](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | 1mo |
 | **Epic Games** | Machine Learning Intern | London | [Apply](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) | 1mo |
@@ -575,16 +601,16 @@ A community-maintained, auto-aggregated list of **student internships across EME
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
-| **Bosch** | Internship Program Q4 Embedded Software Intern - C/C++/Linux | Ho Chi Minh City | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149236759--internship-program-q4-embedded-software-intern-c-c-linux-?oga=true) | 1d |
-| **Bosch** | EAA Embedded Test Engineer Intern | Ho Chi Minh City | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149241480--eaa-embedded-test-engineer-intern-?oga=true) | 1d |
-| **ZEISS** | Internship - Embedded Linux - f/m/x | Berlin | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Jena/Internship----Embedded-Linux--f-m-x-_JR_1052579-1) | 7d |
-| **NXP Semiconductors** | Intern Software Engineer - Embedded Benchmarking & Thermal Characterization | Bucharest | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1) | 7d |
-| **Hewlett Packard Enterprise** | Embedded Software - Firmware Internship | Singapore | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618) | 8d |
-| **Stryker** | Embedded Software Engineering Co-Op Student | Dublin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Carrigtwohill-Ireland/Embedded-Software-Engineering-Co-Op-Student_R572136) | 14d |
-| **NVIDIA** | System Software Engineer - Embedded Power Management - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967) | 22d |
-| **Analog Devices** | FY27 Engineering Intern - Hardware - Software & Systems | Madrid | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/Spain-Valencia-Cortes-Valencianas/FY27--Engineering-Intern---Hardware--Software---Systems_R265309) | 25d |
-| **Hitachi** | Embedded Software Engineer Internship | Ho Chi Minh City | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Da-Nang--Nng-Vietnam/Embedded-Software-Engineer-Internship_R0142219) | 27d |
-| **Hitachi** | Embedded Engineering Software Internship | Ho Chi Minh City | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142038) | 28d |
+| **Novanta** | Hardware Developer Internship | Barcelona, Madrid | [Apply](https://novanta.wd5.myworkdayjobs.com/en-US/novanta-careers/job/Barcelona-Spain---Keonn/Hardware-Developer-Internship_R009498) | 🆕 |
+| **Bosch** | EAA Embedded Test Engineer Intern | Ho Chi Minh City | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149241480--eaa-embedded-test-engineer-intern-?oga=true) | 2d |
+| **ZEISS** | Internship - Embedded Linux - f/m/x | Berlin | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Jena/Internship----Embedded-Linux--f-m-x-_JR_1052579-1) | 8d |
+| **NXP Semiconductors** | Intern Software Engineer - Embedded Benchmarking & Thermal Characterization | Bucharest | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1) | 8d |
+| **Hewlett Packard Enterprise** | Embedded Software - Firmware Internship | Singapore | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618) | 9d |
+| **Stryker** | Embedded Software Engineering Co-Op Student | Dublin | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Carrigtwohill-Ireland/Embedded-Software-Engineering-Co-Op-Student_R572136) | 15d |
+| **NVIDIA** | System Software Engineer - Embedded Power Management - RDSS Intern | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967) | 23d |
+| **Analog Devices** | FY27 Engineering Intern - Hardware - Software & Systems | Madrid | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/Spain-Valencia-Cortes-Valencianas/FY27--Engineering-Intern---Hardware--Software---Systems_R265309) | 26d |
+| **Hitachi** | Embedded Software Engineer Internship | Ho Chi Minh City | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Da-Nang--Nng-Vietnam/Embedded-Software-Engineer-Internship_R0142219) | 28d |
+| **Hitachi** | Embedded Engineering Software Internship | Ho Chi Minh City | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142038) | 29d |
 | **Optiver** | 2027 Shanghai FPGA Developer Summer Internship | Shanghai | [Apply](https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002) | 1mo |
 | **Virtu Financial** | 2027 Internship - FPGA Engineer | Dublin | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8638124002) | 1mo |
 | **DRW** | FPGA Intern | London | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) | 1mo |
